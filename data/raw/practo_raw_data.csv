@@ -1,0 +1,1081 @@
+Doctor_Name,Specialization,Exprience,Hospital_Name,City,Patient_Like,Info_Source,Consultation_Fee
+Dr. Anil Krishna Gundala,Cardiologist,23,Medicover Hospitals - Hitech City,Hyderabad,96%,Practo,₹800
+Dr. Sai Ravi Shanker A,Cardiologist,31,Aster Prime Hospital,Hyderabad,60%,Practo,₹800
+Dr. R. Balaji,Cardiologist,37,Medicover Hospitals - Hitech City,Hyderabad,97%,Practo,₹900
+Dr. Krishna Prasad A R,Cardiologist,32,Medicover Hospitals - Hitech City,Hyderabad,82%,Practo,₹800
+Dr. Shiva Prasad Koyalakonda,Cardiologist,23,One Cardiac Centre,Hyderabad,93%,Practo,₹700
+Dr. Nithin Annarapu,Cardiologist,20,Medicover Hospitals - Hitech City,Hyderabad,98%,Practo,₹800
+Dr. M Srinivasa Rao,Cardiologist,43,Care Hospital,Hyderabad,100%,Practo,₹800
+Dr. K.Naga Murali,Cardiologist,26,Srikara Hospitals,Hyderabad,93%,Practo,₹850
+Dr. Harsha Vardhan Reddy K,Cardiologist,19,Sravani Hospital,Hyderabad,100%,Practo,₹900
+Dr. Premchand,Cardiologist,31,Medicover Hospitals - Hitech City,Hyderabad,95%,Practo,₹900
+Dr. Parthasarathi Karmakar,Cardiologist,41,Techno India Dama Healthcare & Medical Centre,Kolkata,100%,Practo,₹800
+Dr. Hema Malathi Rath,Cardiologist,25,Techno India Dama Healthcare & Medical Centre,Kolkata,,Practo,₹1200
+Dr. Ashraful Haque,Cardiologist,20,Techno India Dama Healthcare & Medical Centre,Kolkata,,Practo,₹1000
+Dr. Pradip Saha,Cardiologist,23,Baine Hospital,Kolkata,,Practo,₹1000
+Dr. Suvendu Chattopadhyay,Cardiologist,14,Baine Hospital,Kolkata,,Practo,₹800
+Dr. Subhasish Deb,Cardiologist,13,Techno India Dama Healthcare & Medical Centre,Kolkata,,Practo,₹1000
+Dr. Supratip Kundu,Cardiologist,17,Techno India Dama Healthcare & Medical Centre,Kolkata,89%,Practo,₹2500
+Dr. S. B. Nagori,Cardiologist,53,Aloka Medicare Pvt. Ltd. (Formerly Calcutta Heart ),Kolkata,91%,Practo,₹1500
+Dr. Parijat Debchoudhury,Cardiologist,23,Medithics,Kolkata,93%,Practo,₹800
+Dr. Amit Bhauwala,Cardiologist,16,Manipal Hospitals (AMRI Hospitals),Kolkata,100%,Practo,₹1200
+Dr. G. Manohar,Cardiologist,37,MGM Healthcare Malar Hospitals,Chennai,100%,Practo,₹800
+Dr. Srichandran L,Cardiologist,23,MGM Healthcare,Chennai,75%,Practo,₹750
+Dr. Pradeep Gopinath Nayar,Cardiologist,42,MGM Healthcare Malar Hospitals,Chennai,100%,Practo,₹1000
+Dr. Deepak Kumar,Cardiologist,16,Kannapa Memorial Hospital,Chennai,100%,Practo,₹800
+Dr. B. Madan Mohan,Cardiologist,33,MGM Healthcare,Chennai,95%,Practo,₹1000
+Dr. Jyotirmaya Dash,Cardiologist,28,Sooriya  Hospital - Nungambakkam,Chennai,100%,Practo,₹1200
+Dr. B Ramamurthy,Cardiologist,40,Billroth Hospitals,Chennai,86%,Practo,₹450
+Dr. Narendra Kumar V,Cardiologist,25,Dr. Rela Institute & Medical Centre,Chennai,98%,Practo,₹800
+Dr. M Dinakaran,Cardiologist,26,V S Hospitals,Chennai,100%,Practo,₹1000
+Dr. Ashok Kumar Aringondam,Cardiologist,16,Dr. Rela Institute & Medical Centre,Chennai,100%,Practo,₹800
+Dr. Sanjiv Gupta,Cardiologist,27,Metro Hospital and Cancer Institute,Delhi,97%,Practo,₹1500
+Dr. Ramesh Raikar,Cardiologist,34,RLKC Hospital & Metro Heart Institute,Delhi,100%,Practo,₹1200
+Dr. Ajay Aggarwal,Cardiologist,25,Yatharth Super Speciality Hospital,Delhi,83%,Practo,₹1500
+Dr. Navjeet Singh Ahluwalia,Cardiologist,37,Kalra  Hospitals,Delhi,33%,Practo,₹1000
+Dr. Nishant Verma,Cardiologist,20,Cygnus MLS Superspecility Hospital,Delhi,50%,Practo,₹500
+Dr. Anunai Srivastava,Cardiologist,21,MGS Super Speciality Hospital,Delhi,100%,Practo,₹1000
+Dr. Ajay Dua,Cardiologist,25,Mata Roop Rani Maggo Hospital and IVF Centre,Delhi,65%,Practo,₹1000
+Dr. Ankit Kalra,Cardiologist,18,Kalra  Hospitals,Delhi,,Practo,₹1000
+Dr. Vivek Mittal,Cardiologist,29,Metro Hospital and Cancer Institute,Delhi,98%,Practo,₹1500
+Dr. Chander Mohan Mittal,Cardiologist,23,Park Hospital,Delhi,90%,Practo,₹1000
+Dr. B V Ashalata,Cardiologist,22,SRV Agadi Hospital,Bangalore,100%,Practo,₹1000
+Dr. Sanjay S M,Cardiologist,28,Aster CMI Hospital,Bangalore,83%,Practo,₹1200
+Dr. M Sudhakar Rao,Cardiologist,16,Sai Thunga Hospitals,Bangalore,93%,Practo,₹1000
+Dr. Ganesh Nallur Shivu,Cardiologist,25,Aster CMI Hospital,Bangalore,97%,Practo,₹1200
+Dr. Ameet Oswal,Cardiologist,16,Trustwell Hospitals,Bangalore,100%,Practo,₹800
+Dr. Ganesh Krishnan Iyer,Cardiologist,39,Aster CMI Hospital,Bangalore,97%,Practo,₹1200
+Dr. Mohan Kumar HN,Cardiologist,22,SPANDANA HEART AND SUPER SPECIALITY HOSPITAL,Bangalore,100%,Practo,₹900
+Dr. Arul Furtado,Cardiologist,24,Aster CMI Hospital,Bangalore,94%,Practo,₹1200
+Dr. Ramnaresh Soudri,Cardiologist,19,Sai Thunga Hospitals,Bangalore,95%,Practo,₹1500
+Dr. Purina Pranesh Deelip,Cardiologist,18,Aum Superspeciality Hospital,Mumbai,100%,Practo,₹1500
+Dr. Jaideep M Rajebahadur,Cardiologist,21,SRV Hospitals Goregaon,Mumbai,,Practo,₹1500
+Dr. Ashish Agrawal,Cardiologist,23,Indigo Hospital,Mumbai,97%,Practo,₹1500
+Dr. Rajanikanth C. R.,Cardiologist,36,Surana Sethia Hospital and Research Center,Mumbai,91%,Practo,₹2000
+Dr. Ramesh Kawar,Cardiologist,38,Surana Hospital And Research Center,Mumbai,80%,Practo,₹2000
+Dr. Anuj Bhasin,Cardiologist,28,Platinum Hospital,Mumbai,82%,Practo,₹2000
+Dr. Ravi Gupta,Cardiologist,30,Surana Sethia Hospital and Research Center,Mumbai,,Practo,₹2500
+Dr. Khemani Hemanth Lalit,Cardiologist,19,Aum Superspeciality Hospital,Mumbai,,Practo,₹1000
+Dr. Gangurde Pranil Bhalchandra,Cardiologist,18,A1 Superspeciality Healthcare,Mumbai,,Practo,₹2000
+Dr. Vivek Agarwal,Cardiologist,18,Surana Hospital And Research Center,Mumbai,,Practo,₹2000
+Dr. Lal Daga,Cardiologist,24,Dr Lal's Heart Center,Ahmedabad,98%,Practo,₹1500
+Dr. Jayesh Prajapati,Cardiologist,31,Apollo Hospital,Ahmedabad,100%,Practo,₹1500
+Dr. Sameer Dani,Cardiologist,36,Apollo Hospital,Ahmedabad,100%,Practo,₹1100
+Dr. Kiran K Prajapati,Cardiologist,14,White Lily Children Surgical Hospital & Cardiology Clinic,Ahmedabad,100%,Practo,₹1200
+Dr. Sharad Jain,Cardiologist,32,Apollo Hospital,Ahmedabad,80%,Practo,₹1500
+Dr. Hasit Joshi,Cardiologist,30,Apollo Hospital,Ahmedabad,100%,Practo,₹1500
+Dr. Subir Ghosh,Cardiologist,27,Apollo Hospital,Ahmedabad,100%,Practo,₹1500
+Dr. Zeeshan Hasan Mansuri,Cardiologist,11,ABC Heart and Skin Care,Ahmedabad,67%,Practo,₹1000
+Dr. Tejas M Patel,Cardiologist,36,Apex Heart Institute,Ahmedabad,71%,Practo,₹2200
+Dr. Ketan M Vekariya,Cardiologist,16,Zydus Hospital,Ahmedabad,100%,Practo,₹800
+Dr. Tarandeep Singh,Cardiologist,20,Apollo Clinic,Chandigarh,,Practo,₹600
+Dr. Anurag Sharma,Cardiologist,34,Ayu Health Ojas Superspeciality Hospital,Chandigarh,100%,Practo,₹700
+Dr. Nirav Kumar,Cardiologist,31,Big Apollo Spectra Multi Speciality Hospital,Patna,100%,Practo,₹850
+Dr. Kamlesh Kumar,Cardiologist,14,Big Apollo Spectra Multi Speciality Hospital,Patna,,Practo,₹750
+Dr. Virendra Prasad Sinha,Cardiologist,41,Balaji Heart Center,Patna,75%,Practo,₹800
+Dr. Rajiv Krishna,Cardiologist,19,Heart Clinic,Patna,67%,Practo,₹500
+Dr. Pramod Kumar Ojha,Cardiologist,19,Arogya Nilayam,Patna,75%,Practo,₹300
+Dr. Sanjeev Kumar Chhaparia,Cardiologist,38,Sanjeev Kumar Chhaparia's Clinic,Patna,13%,Practo,₹700
+Dr. Neeraj Kumar,Cardiologist,21,MR HOSPITAL PATNA,Patna,,Practo,Free Consultation
+Dr. Ram Sagar Roy,Cardiologist,12,MR HOSPITAL PATNA,Patna,,Practo,Free Consultation
+Dr. Shashi Shekhar,Cardiologist,20,Rajendra Nagar Government Hospital,Patna,,Practo,Free Consultation
+Dr. Sudhanshu Singh,Cardiologist,10,Jeevak Heart Hospital,Patna,,Practo,₹500
+Dr. Lt. Col. R P Singh,Cardiologist,22,Aarogyam Superspeciality Heart and Dental Clinic,Lucknow,96%,Practo,₹600
+Dr. Amit Kumar Soni,Cardiologist,5,Max Super Speciality Hospital,Lucknow,,Practo,₹700
+Dr. Gautam Swaroop,Cardiologist,19,Dr. Gautam Swaroop Clinic,Lucknow,75%,Practo,₹1000
+Dr. Ambukeshwar Singh,Cardiologist,15,Max Super Speciality Hospital,Lucknow,86%,Practo,₹700
+Dr. Mukesh Jaiswal,Cardiologist,14,Max Super Speciality Hospital,Lucknow,,Practo,₹700
+Dr. Kazmi Danish Hasan,Cardiologist,18,Max Super Speciality Hospital,Lucknow,,Practo,₹1000
+Dr. Nakul Sinha,Cardiologist,49,Max Super Speciality Hospital,Lucknow,,Practo,₹1200
+Dr. (Col) Ajay Bahadur,Cardiologist,39,Apollomedics Super Speciality Hospital,Lucknow,100%,Practo,₹700
+Dr. Madhukar Kapoor,Cardiologist,53,Dr. Madhukar Kapoor Clinic,Lucknow,100%,Practo,₹400
+Dr. R.P. Singh,Cardiologist,19,Joint Replacement & IVF Centre,Lucknow,83%,Practo,₹400
+Dr. Yuvaraj Bhosale,Cardiologist,21,Jeevan Jyoti Superspeciality Hospital,Pune,,Practo,₹1200
+Dr. Mahesh Sampat Kharade,Cardiologist,16,Lifepoint Multispeciality Hospital,Pune,100%,Practo,₹1500
+Dr. Akshay Kashid,Cardiologist,16,Wisdom Super Speciality Hospital,Pune,100%,Practo,₹1000
+Dr. Abhay Somani,Cardiologist,27,Ruby Hall Clinic,Pune,92%,Practo,₹1200
+Dr. Rajesh Kaushish,Cardiologist,30,Ruby Hall Clinic,Pune,,Practo,₹1200
+Dr. Bhushan Bari,Cardiologist,23,Ruby Hall Clinic,Pune,100%,Practo,₹900
+Dr. Sonam Shinde,Cardiologist,18,Medicover Hospital,Pune,77%,Practo,₹1000
+Dr. Sujit Sawadatkar,Cardiologist,22,Noble Hospital,Pune,100%,Practo,₹950
+Dr. Prashant Sadashiv Shinde,Cardiologist,20,Medicover Hospital,Pune,100%,Practo,₹1000
+Dr. Gaurav Ganeshwala,Cardiologist,19,Ruby Hall Clinic,Pune,,Practo,₹900
+Dr. Ravi Kumar GurugubeIli,Cardiologist,23,Medicover Hospitals - Visakhapatnam,Visakhapatnam,67%,Practo,₹800
+Dr. Srikanth Bodepudi,Cardiologist,20,Medicover Hospitals - Visakhapatnam,Visakhapatnam,100%,Practo,₹800
+Dr. Hemanta Kumar Behera,Cardiologist,30,Medicover Hospitals - Visakhapatnam,Visakhapatnam,100%,Practo,₹800
+Dr. Narasimha Raju Challapalli,Cardiologist,20,Medicover Hospitals - Visakhapatnam,Visakhapatnam,100%,Practo,₹500
+Dr. Archana Behera,Cardiologist,30,Medicover Hospitals - Visakhapatnam,Visakhapatnam,,Practo,₹800
+Dr. K P Ranganayakulu,Cardiologist,22,Medicover Hospitals - Visakhapatnam,Visakhapatnam,100%,Practo,₹800
+Dr. P Siva Satya Subramanyam,Cardiologist,19,"OMNI Hospitals, Visakhapatnam",Visakhapatnam,,Practo,₹750
+Dr. Darimireddi Sivakumar,Cardiologist,17,Medicover Hospitals - Visakhapatnam,Visakhapatnam,,Practo,₹800
+Dr. A Suresh,Cardiologist,25,Medicover Hospitals - Visakhapatnam,Visakhapatnam,100%,Practo,₹800
+Dr. Srikara Samir Nandan Siddamsetty,Cardiologist,17,Medicover Hospitals - Visakhapatnam,Visakhapatnam,100%,Practo,₹800
+Dr. Chandrashekhar Reddy,Dentist,27,Sri Sai Dental Hospital,Hyderabad,96%,Practo,₹400
+Dr. M. S. Sushma Susik,Dentist,35,Brite Smiles Dental Clinic,Hyderabad,98%,Practo,₹300
+Dr. Pallavi G Pawar,Dentist,22,Sri Sai Dental Hospital,Hyderabad,80%,Practo,₹400
+Dr. Mohan Rayapudi,Dentist,16,MohanDental Clinic,Hyderabad,100%,Practo,₹500
+Dr. Ashok,Dentist,19,Maurya Dental Specialities,Hyderabad,98%,Practo,₹300
+Dr. B.Srikanth,Dentist,16,Akshaya Dental Hospital And Implant  Center,Hyderabad,98%,Practo,₹300
+Dr. B Vishnu Chaitanya Goud,Dentist,16,Ethos Dental,Hyderabad,100%,Practo,₹400
+Dr. Jayarekha,Dentist,16,MohanDental Clinic,Hyderabad,100%,Practo,₹500
+Dr. Syed Saood Hasan Razvi,Dentist,20,Denta'Glo Dental Clinic & Implant Centre,Hyderabad,98%,Practo,₹400
+Dr. Keerti D Pratap,Dentist,27,Krutika Dental Clinic,Hyderabad,100%,Practo,₹300
+Dr. Joyita Das Choudhury,Dentist,5,Horizon Aesthetics,Kolkata,100%,Practo,₹500
+Dr. Sayan Roy,Dentist,8,N G Medicare & Calcutta Hope Infertility Clinic,Kolkata,100%,Practo,₹400
+Dr. Ritoban Saha Bhowmick,Dentist,12,Sl Artemis Medical Centre Pvt Ltd,Kolkata,,Practo,₹1200
+Dr. Shamik Gope,Dentist,19,Samaritan Clinic Private Limited,Kolkata,100%,Practo,₹1500
+Dr. B K Biswas,Dentist,40,Avinash Dental Clinic - AICRS,Kolkata,67%,Practo,₹1000
+Dr. Arimeeta Bhadra,Dentist,11,Teeth Care Multispeciality Dental Clinic,Kolkata,97%,Practo,₹400
+Dr. Sawon Barman,Dentist,29,Smile Signature Dental Clinic,Kolkata,90%,Practo,₹500
+Dr. Shatarupa Saha,Dentist,13,Dentaris-Happy Dental 2 U,Kolkata,98%,Practo,₹500
+Dr. Pallavi Mittal,Dentist,17,Holistic Ent And Dental Superspeciality Clinic,Kolkata,99%,Practo,₹500
+Dr. Nikita Parasrampuria,Dentist,13,Smile Studio Dental Clinic,Kolkata,93%,Practo,₹300
+Dr. Kiruthika Asokan,Dentist,22,Family Clinic,Chennai,100%,Practo,₹450
+Dr. M.Srikanth,Dentist,25,Smile Solutions Family Dentistry,Chennai,98%,Practo,₹400
+Dr. B J Barun,Dentist,22,Dr. Barun's Multispeciality Dental Centre,Chennai,98%,Practo,₹300
+Dr. K.Senthil Kumar,Dentist,31,Tooth N Care Dental Clinic,Chennai,99%,Practo,₹200
+Dr. Vesta Enid Lydia,Dentist,14,Stunning Smiles Dental,Chennai,99%,Practo,₹300
+Dr. Haritha U,Dentist,8,Vishnu Dental Clinic,Chennai,100%,Practo,₹100
+Dr. Shobana Thevi,Dentist,10,Elite Dental Care,Chennai,100%,Practo,₹300
+Dr. Amruth Ganesh,Dentist,10,Dr Amruths Precision Dental Care,Chennai,,Practo,₹400
+Dr. Deepak Raj,Dentist,17,Raj Implant And Orthodontic Center,Chennai,99%,Practo,₹200
+Dr. T. Sivasankari,Dentist,23,Harsini's Dental Clinic,Chennai,88%,Practo,₹500
+Dr. Dheeraj Setia,Dentist,29,The Dental Roots,Delhi,94%,Practo,₹500
+Dr. Geetanjali Marya,Dentist,39,Marya's Dental and Implant Centre,Delhi,97%,Practo,₹800
+Dr. Ajay Kumar Singh,Dentist,18,Tirupati Dental,Delhi,100%,Practo,₹700
+Dr. Karan Marya,Dentist,43,Marya's Dental and Implant Centre,Delhi,96%,Practo,₹800
+Dr. Sourabh Nagpal,Dentist,21,Matrix Dental & Skin Lounge,Delhi,98%,Practo,₹500
+Dr. Pankaj Rooprai,Dentist,33,Dentistry Futura & Implant Centre,Delhi,87%,Practo,₹500
+Dr. Kapil Garg,Dentist,21,City Dental,Delhi,98%,Practo,₹300
+Dr. Urvashi Rooprai,Dentist,28,Dentistry Futura & Implant Centre,Delhi,,Practo,₹500
+Dr. Amit Baranwal,Dentist,27,Dental Cure Dental N Implant Centre,Delhi,96%,Practo,₹500
+Dr. Sumit Solanki,Dentist,17,Artize Clinic,Delhi,100%,Practo,₹500
+Dr. Venkatesh M J,Dentist,32,All Care Dental Centre - since 1969,Bangalore,86%,Practo,₹300
+Dr. K A Mohan,Dentist,57,Dental De Care,Bangalore,93%,Practo,₹500
+Dr. D N Naveen,Dentist,32,Vignesh Dental Speciality Centre,Bangalore,98%,Practo,₹500
+Dr. Raghavendra K,Dentist,29,Raghav Dental Care Centre,Bangalore,94%,Practo,₹500
+Dr. Raju Srinivas,Dentist,30,Dental Health Care Clinic,Bangalore,95%,Practo,₹400
+Dr. Ramya,Dentist,23,Ivory Dental,Bangalore,98%,Practo,₹400
+Dr. Deepthi B C,Dentist,18,Wisden Clinics,Bangalore,98%,Practo,₹300
+Dr. Kim Upadhyay,Dentist,19,Kosmodent Dental Studio and Implant Centre,Bangalore,96%,Practo,₹500
+Dr. Lahari,Dentist,19,Leo Dental  Invisalign Aligners and Braces,Bangalore,98%,Practo,₹500
+Dr. Sharada P Gowda,Dentist,17,American Dental Practices,Bangalore,98%,Practo,₹500
+Dr. Sanket Mehta,Dentist,21,Smile Studio Dental Clinic,Mumbai,99%,Practo,₹500
+Dr. Manish Kachhara,Dentist,24,Dental Solutions,Mumbai,98%,Practo,₹500
+Dr. Manoj Bodhwani,Dentist,20,Tooth Avenue,Mumbai,98%,Practo,₹500
+Dr. Ruupali Wanckhede,Dentist,28,Smile Edge Oral & Dental Health Care Clinic,Mumbai,98%,Practo,₹500
+Dr. Varoon Jain,Dentist,19,Smile Sutra  Multi Speciality Dental Clinic,Mumbai,95%,Practo,₹500
+Dr. Ameya Manish Sonawane,Dentist,16,Millennium Smile Dental Clinic,Mumbai,100%,Practo,₹500
+Dr. Reshma Phulwar,Dentist,30,32 Pearls Dental Clinic,Mumbai,95%,Practo,₹500
+Dr. Bhavin Shah,Dentist,17,American Dental Practices,Mumbai,99%,Practo,₹500
+Dr. Amit Chavan,Dentist,18,Smile Again Dental Clinic,Mumbai,99%,Practo,₹500
+Dr. Dhruti Raut Chavan,Dentist,17,Smile Again Dental Clinic,Mumbai,98%,Practo,₹500
+Dr. Alap Shah,Dentist,22,Ivories Laser Dental Clinic & Dental Implant Center,Ahmedabad,98%,Practo,₹300
+Dr. Krupa Vaidya,Dentist,28,Dhwanil Dental Clinic,Ahmedabad,99%,Practo,₹300
+Dr. Ankitkumar M Bhagora,Dentist,14,Karnavati Dental Care,Ahmedabad,100%,Practo,₹300
+Dr. Kinjal Shah,Dentist,22,Ivories Laser Dental Clinic & Dental Implant Center,Ahmedabad,94%,Practo,₹300
+Dr. Nisha sheth,Dentist,16,Ora Dental Care,Ahmedabad,100%,Practo,₹300
+Dr. Manish Shah,Dentist,29,Aashu Dental and Multispeciality Clinic,Ahmedabad,100%,Practo,₹300
+Dr. Komal Thakkar,Dentist,14,Total 360 Dental Care Clinic,Ahmedabad,98%,Practo,₹800
+Dr. Ujjawal Soni,Dentist,23,Denta Sculpt Dental Clinic,Ahmedabad,100%,Practo,₹400
+Dr. Chaitali Parikh,Dentist,12,House Of Dontics,Ahmedabad,100%,Practo,₹200
+Dr. Hemang Zala,Dentist,26,Dr. Hemang Zala Multi Speciality & Cosmetic Dental Hospital,Ahmedabad,96%,Practo,₹500
+Dr. Nakul Singla,Dentist,15,Pristine Dental And Facial Care,Chandigarh,95%,Practo,₹250
+Dr. Vijaylakshmi Singla,Dentist,11,Pristine Dental And Facial Care,Chandigarh,100%,Practo,₹250
+Dr. Manisha Kochar,Dentist,29,Dr Kochar’s House of Smiles,Chandigarh,82%,Practo,₹500
+Dr. Parag Kochar,Dentist,28,Dr Kochar’s House of Smiles,Chandigarh,97%,Practo,₹1000
+Dr. Anshu Gupta,Dentist,27,Advanced Dental Care Centre,Chandigarh,94%,Practo,₹400
+Dr. Manpreet S. Walia,Dentist,29,Life Care Dental and Implant Centre,Chandigarh,98%,Practo,₹500
+Dr. Ved P Kapoor,Dentist,56,Kapoor Dental Clinic,Chandigarh,97%,Practo,₹300
+Dr. Arunima Chandra,Dentist,13,Bedi Hospital,Chandigarh,100%,Practo,₹800
+Dr. Bhavna Sharma,Dentist,15,Sanjeevani Multispeclity Hospital,Chandigarh,100%,Practo,₹400
+Dr. Jasbrinder Singh Teja,Dentist,29,Dr Teja's Dental Practice,Chandigarh,100%,Practo,₹500
+Dr. Abhishek Kumar,Dentist,21,Magadh Oro Dental Implant & Orthodontic Clinic,Patna,97%,Practo,₹500
+Dr. Indrajit Sharan,Dentist,14,Dr. Sharan's Dental Solutions,Patna,100%,Practo,₹500
+Dr. Shikha Rani,Dentist,11,Align Dental And Braces Superspeciality Clinic,Patna,,Practo,₹300
+Dr. Nishant Kumar Tewari,Dentist,17,Kiran Multispeciality Dental Clinic & Maxillofacial Surgery Centre,Patna,100%,Practo,₹200
+Dr. Archana Rani,Dentist,19,Magadh Oro Dental Implant & Orthodontic Clinic,Patna,97%,Practo,₹500
+Dr. Manvi Singh,Dentist,16,Harihar Dental Clinic,Patna,97%,Practo,₹300
+Dr. Asad Haider,Dentist,12,Ours Dental Clinic,Patna,83%,Practo,₹200
+Dr. Rakshanda,Dentist,9,Sinha Dental Clinic,Patna,97%,Practo,₹300
+Dr. Shashikant Gourav,Dentist,5,Shreeji Dentoverse,Patna,100%,Practo,₹500
+Dr. Lav Kumar,Dentist,19,Magadh Oro Dental Implant & Orthodontic Clinic,Patna,100%,Practo,₹500
+Dr. Ananya Rawat,Dentist,9,Dr. Ananya's Dental Care,Lucknow,,Practo,₹300
+Dr. Vikas Kumar,Dentist,19,Pushpa Dental Speciality Center,Lucknow,100%,Practo,₹500
+Dr. Preeti Singh,Dentist,16,Pushpa Dental Speciality Center,Lucknow,99%,Practo,₹500
+Dr. Madhulika Saxena,Dentist,9,SIPS Super Specialty hospital,Lucknow,,Practo,₹600
+Dr. Geeta Verma Gupta,Dentist,20,Hemang Dental Orthodontic & Implant Clinic,Lucknow,95%,Practo,₹300
+Dr. Ankit Bahal,Dentist,23,SmyleXL Dental Clinic,Lucknow,99%,Practo,₹500
+Dr. Gaurav Bhalla,Dentist,20,Tooth n Implants,Lucknow,100%,Practo,₹400
+Dr. Abhishek  S  Verma,Dentist,21,Calgary Dental Clinic ,Lucknow,100%,Practo,₹300
+Dr. Maninder Saluja,Dentist,15,Impressions Dental Centre,Lucknow,97%,Practo,₹500
+Dr. Nandini Singh,Dentist,17,The Bright Arch Multi Speciality Dental Studio,Lucknow,98%,Practo,₹500
+Dr. Amol Thorat Dinkar,Dentist,26,Dr. Ratnika's - Smile Up Dental Clinic & Implant Center,Pune,85%,Practo,₹300
+Dr. Sandeep Bhirud,Dentist,37,Dr. Bhirud's Sweet Smile Dental Clinic,Pune,98%,Practo,₹500
+Dr. Jyoti Bhirud,Dentist,31,Dr. Bhirud's Sweet Smile Dental Clinic,Pune,98%,Practo,₹500
+Dr. Rahul Kathariya,Dentist,21,Dental Galaxy,Pune,96%,Practo,₹400
+Dr. Rohit Jethale,Dentist,17,Dentalist - The Smile Experts,Pune,100%,Practo,₹199
+Dr. Mamta,Dentist,16,Dentalist - The Smile Experts,Pune,93%,Practo,₹199
+Dr. Apoorva Sahu,Dentist,16,Dr Sahu’s Dental & Orthodontic Care,Pune,100%,Practo,₹300
+Dr. Syed Shibli Quazi,Dentist,16,Dr. Ratnika's - Smile Up Dental Clinic & Implant Center,Pune,98%,Practo,₹300
+Dr. Abhinav Misuriya,Dentist,21,Saroj Dental Care Centre,Pune,97%,Practo,₹400
+Dr. Irshad Chaudary,Dentist,16,Dr. Ratnika's - Smile Up Dental Clinic & Implant Center,Pune,94%,Practo,₹300
+Dr. A Sandhya Kishore,Dentist,17,Sandhya Dental Clinic,Visakhapatnam,100%,Practo,₹100
+Dr. Earle Santosh Kumar,Dentist,13,SMYLE XL Dental clinic,Visakhapatnam,99%,Practo,₹200
+Dr. Apoorva,Dentist,9,Tiny Teeth Clinic,Visakhapatnam,100%,Practo,₹500
+Dr. V Vardhan,Dentist,10,Perfect Dental Care,Visakhapatnam,100%,Practo,₹300
+Dr. K Anusha,Dentist,12,Partha Dental  Skin Hair,Visakhapatnam,100%,Practo,Free Consultation
+Dr. N Satish Varma,Dentist,29,Smiles Dental Clinic,Visakhapatnam,99%,Practo,₹200
+Dr. Srinivas Manohar,Dentist,11,Manohar Advanced Dental Care,Visakhapatnam,100%,Practo,₹300
+Dr. Adasumalli  Sridhar,Dentist,10,Partha Dental  Skin Hair,Visakhapatnam,100%,Practo,Free Consultation
+Dr. Muppidi Surya Mani Raj,Dentist,11,Partha Dental  Skin Hair,Visakhapatnam,100%,Practo,Free Consultation
+Dr. Suneeta Veeramachaneni,Dentist,25,Krest Dental Care,Visakhapatnam,99%,Practo,₹500
+Dr. Vijay Kumar Lingapuram,Dermatologist,18,Sikara Clinics,Hyderabad,100%,Practo,₹1000
+Dr. Rathnakaram Leelavathi,Dermatologist,27,JJ Wellness Clinic,Hyderabad,33%,Practo,₹500
+Dr. Navya Chowdary,Dermatologist,16,Sasha Luxe Dermatology and Cosmetic Surgery Centre,Hyderabad,90%,Practo,₹750
+Dr. Neelima Ravipati,Dermatologist,15,Cradle Of Youth Your Personal Dermatologist,Hyderabad,98%,Practo,₹700
+Dr. Archana S A,Dermatologist,12,Tricare Skin Hair Aesthetics,Hyderabad,100%,Practo,₹700
+Dr. Sandeep G.S.S,Dermatologist,15,Saanvi's Laser Skin and Hair Clinic,Hyderabad,100%,Practo,₹1200
+Dr. Sandhya Lakkireddy,Dermatologist,21,Srikara Hospitals,Hyderabad,92%,Practo,₹800
+Dr. B Vijayasree,Dermatologist,19,Medicover Hospitals - Hitech City,Hyderabad,100%,Practo,₹600
+Dr. Ponnada Silpa,Dermatologist,12,Chiranjeevi Hospitals,Hyderabad,73%,Practo,₹600
+Dr. Shravya Rimmalapudi,Dermatologist,7,"Linaé Skin, Hair and Aesthetic Clinic",Hyderabad,100%,Practo,₹1000
+Dr. Asad Ansari,Dermatologist,15,HairMate Clinic,Kolkata,63%,Practo,₹1200
+Dr. Reeja Mariam George,Dermatologist,18,Oliva Skin & Hair Clinic,Kolkata,98%,Practo,₹900
+Dr. Debatri Datta,Dermatologist,11,Oliva Skin & Hair Clinic,Kolkata,96%,Practo,₹900
+Dr. Barnali Dutta,Dermatologist,30,Oliva Skin & Hair Clinic,Kolkata,94%,Practo,₹900
+Dr. Avik Ghosh,Dermatologist,12,Oliva Skin & Hair Clinic,Kolkata,95%,Practo,₹900
+Dr. Archana Bhowmik,Dermatologist,13,Oliva Skin & Hair Clinic,Kolkata,96%,Practo,₹900
+Dr. Rajendrani Mazumder,Dermatologist,10,Oliva Skin & Hair Clinic,Kolkata,95%,Practo,₹900
+Dr. Rajib Roy,Dermatologist,21,Oliva Skin & Hair Clinic,Kolkata,98%,Practo,₹900
+Dr. Shayeri Banerjee,Dermatologist,9,Oliva Skin & Hair Clinic,Kolkata,100%,Practo,₹900
+Dr. Shriya Saha,Dermatologist,7,Oliva Skin & Hair Clinic,Kolkata,100%,Practo,₹900
+Dr. Senthil Sivaprakasam,Dermatologist,21,Radiance Skin And Hair Care,Chennai,97%,Practo,₹1000
+Dr. Rajeshwari,Dermatologist,23,Dr.Rajeshwari's Skin & Hair Care Private Limited,Chennai,72%,Practo,₹1000
+Dr. Divya Vijayaraghavan,Dermatologist,21,VS Hospitals,Chennai,72%,Practo,₹800
+Dr. B.Sindhu Raaghavi,Dermatologist,12,Dr. Sindhu's Skin Clinic ,Chennai,97%,Practo,₹1200
+Dr. Aftab Matheen,Dermatologist,35,Prime Indian Hospitals,Chennai,78%,Practo,₹800
+Dr. S Deepika,Dermatologist,6,Dr.Rajeshwari's Skin & Hair Care Private Limited,Chennai,100%,Practo,₹650
+Dr. K Uma Maheswari,Dermatologist,24,Shreya Medical Centre,Chennai,94%,Practo,₹1000
+Dr. Narayanan A,Dermatologist,12,SRM Prime Hospital,Chennai,98%,Practo,₹750
+Dr. Divya K R,Dermatologist,22,Billroth Hospitals,Chennai,100%,Practo,₹700
+Dr. Jyothsna,Dermatologist,20,Curves Clinic,Chennai,95%,Practo,₹800
+Dr. Amit Bhasin,Dermatologist,17,Prive Luxe Skin and Wellness,Delhi,91%,Practo,₹1200
+Dr. Mudasir Khan,Dermatologist,32,Lush Skin and Hair Clinic,Delhi,93%,Practo,₹900
+Dr. Aamir Siddiqui,Dermatologist,18,Dr. Siddiqui's Skin Clinic,Delhi,96%,Practo,₹1200
+Dr. Rakesh,Dermatologist,15,Rakshaa Aesthetics,Delhi,93%,Practo,₹1500
+Dr. Deepali Bhardwaj,Dermatologist,20,Centre For Skin and Hair Pvt Ltd,Delhi,88%,Practo,₹1700
+Dr. Chanchal Choudhary,Dermatologist,22,La Fameux Derma Skin And Hair Clinic,Delhi,90%,Practo,₹800
+Dr. Sunakshi Singh,Dermatologist,17,Advance Dermatology  &  Hair Transplant Clinic,Delhi,91%,Practo,₹1000
+Dr. Prateek Sondhi,Dermatologist,17,Derma Circles: Doctors from AIIMS,Delhi,96%,Practo,₹1200
+Dr. Amrendra kumar,Dermatologist,19,Dermaclinix,Delhi,93%,Practo,₹2000
+Dr. Payal Gupta,Dermatologist,30,Skin and Bones Clinic,Delhi,97%,Practo,₹1000
+Dr. Parthasarathi Dutta Roy,Dermatologist,23,Dr. Partha Sarathi's Asian Hair And Skin Hospitals,Bangalore,88%,Practo,₹900
+Dr. Sanjay S Desai,Dermatologist,18,Dr. Desai Skin and Hair Clinic,Bangalore,94%,Practo,₹600
+Dr. Sheelavathi Natraj,Dermatologist,22,Sapphire Skin and Aesthetics Clinic,Bangalore,94%,Practo,₹900
+Dr. Savitha A S,Dermatologist,20,Calyx Skin Lab,Bangalore,91%,Practo,₹900
+Dr. Harish Prasad B.R,Dermatologist,19,Vitals Skin and hair clinic,Bangalore,95%,Practo,₹1000
+Dr. Neha Gupta,Dermatologist,25,DYU Aesthetics,Bangalore,89%,Practo,₹1000
+Dr. Yogeesh H R,Dermatologist,33,Akshatha Skin And Hair Care Centre,Bangalore,95%,Practo,₹800
+Dr. Chandrashekara Aithal,Dermatologist,36,Marigold Hospital,Bangalore,83%,Practo,₹600
+Dr. Rajesh H N,Dermatologist,15,Koshys Hospital,Bangalore,95%,Practo,₹650
+Dr. Belliappa P R,Dermatologist,26,Greenview Medical Center,Bangalore,95%,Practo,₹1000
+Dr. Pallavi Rathi,Dermatologist,22,My Skin My Health,Mumbai,89%,Practo,₹1500
+Dr. Vaidehi Saigaonkar Newaskar,Dermatologist,16,Krasa Skin and Hair Clinic,Mumbai,99%,Practo,₹1500
+Dr. Bharti  Patel,Dermatologist,21,Bella Skin & Hair Clinic,Mumbai,94%,Practo,₹1500
+Dr. Amit Gulati,Dermatologist,19,Akira Skin And Hair Clinic,Mumbai,99%,Practo,₹1200
+Dr. Kshama P Vibhakar,Dermatologist,23,Skin 'N' Sculpt,Mumbai,94%,Practo,₹1500
+Dr. Agarkar Amit Suresh,Dermatologist,21,V Plant Advance Hair Clinic,Mumbai,92%,Practo,₹600
+Dr. Sonia Tekchandani,Dermatologist,40,Tender Skin International,Mumbai,94%,Practo,₹1500
+Dr. Raina Nahar,Dermatologist,18,Kaizen Skin Clinic,Mumbai,91%,Practo,₹1200
+Dr. Kiran Katkar,Dermatologist,41,Dr. Kiran Katkar's Dermis Skin Wellness Clinic Laser & Cosmetic Centre,Mumbai,93%,Practo,₹1500
+Dr. Gayatri Bharadwaj,Dermatologist,36,Dr. Gayatri's Skin Clinic,Mumbai,84%,Practo,₹1500
+Dr. Nivedita Kakkad,Dermatologist,12,SkinLab by Dr. Jamuna Pai,Ahmedabad,77%,Practo,₹750
+Dr. Rupa Tejas Shah,Dermatologist,34,Silk Skin Laser Cosmetology Clinic,Ahmedabad,96%,Practo,₹1000
+Dr. Meeta Desai,Dermatologist,25,The Skin Sense,Ahmedabad,98%,Practo,₹1000
+Dr. Hiral Dineshbhai Patel,Dermatologist,10,Oliva Skin And Hair Clinic,Ahmedabad,100%,Practo,₹900
+Dr. Anshul Warman,Dermatologist,24,Apollo Hospital,Ahmedabad,90%,Practo,₹1000
+Dr. Sindhu Priti Mahavirsingh,Dermatologist,7,Oliva Skin And Hair Clinic,Ahmedabad,100%,Practo,₹900
+Dr. Hiren N Patel,Dermatologist,23,Shreeji  Skin Care Clinic,Ahmedabad,98%,Practo,₹500
+Dr. Foram Pathak,Dermatologist,6,Dermacare ,Ahmedabad,100%,Practo,₹800
+Dr. Pooja Chowdhary,Dermatologist,18,Twachaa Skin & Cosmetic Clinic,Ahmedabad,98%,Practo,₹400
+Dr. Shruti Patel,Dermatologist,19,Elegance Skin And Cosmetic Clinic,Ahmedabad,98%,Practo,₹600
+Dr. Suruchi Garg,Dermatologist,27,Aura Skin Institute,Chandigarh,94%,Practo,₹800
+Dr. Naiya Bansal,Dermatologist,17,Dr. Naiya Bansal's Skin and Laser Clinic,Chandigarh,92%,Practo,₹600
+Dr. Priyanka Prakash,Dermatologist,19,Sparsh Skin Clinic,Chandigarh,98%,Practo,₹700
+Dr. Mohit Dhawan,Dermatologist,25,"Renovin Skin, Hair and Laser Clinic",Chandigarh,93%,Practo,₹700
+Dr. Geeta Garg,Dermatologist,27,Dr. Geeta Garg's Skin Clinic,Chandigarh,98%,Practo,₹600
+Dr. Manjit Kaur,Dermatologist,19,"Aesthese (Skin, Hair And Laser Clinic)",Chandigarh,100%,Practo,₹600
+Dr. Ashima Goel,Dermatologist,22,Parisa Skin Cosmetic And Laser Centre,Chandigarh,94%,Practo,₹1000
+Dr. Harmandeep Sidhu,Dermatologist,19,"Athena Skin, Hair And Laser Clinic",Chandigarh,96%,Practo,₹700
+Dr. Sanchit Talwar,Dermatologist,19,"Dr Talwar's Skin, Laser, Hair & Cosmetology Centre",Chandigarh,90%,Practo,₹400
+Dr. Neetika Paul,Dermatologist,18,Skin And Sculpt Cosmetic/Laser/Hair/Skin/Nail Clinic,Chandigarh,93%,Practo,₹800
+Dr. Abhinav Kumar,Dermatologist,15,The Skin Centre,Patna,96%,Practo,₹500
+Dr. Samina Subuhi,Dermatologist,15,Square Root : Hair | Skin | Laser Clinic,Patna,88%,Practo,₹600
+Dr. Jyotirmay Bharti,Dermatologist,19,Square Root : Hair | Skin | Laser Clinic,Patna,90%,Practo,₹800
+Dr. Punkesh,Dermatologist,14,Advance Skin Hair & Laser Clinic,Patna,94%,Practo,₹500
+Dr. Richa Thakur,Dermatologist,18,Ortho & Skin Care Clinic,Patna,86%,Practo,₹400
+Dr. Pankaj Tiwary,Dermatologist,17,Dr. Pankaj Tiwari Clinic,Patna,89%,Practo,₹600
+Dr. Swati Suman,Dermatologist,11,Medipark Superspeciality Hospital,Patna,100%,Practo,₹300
+Dr. S S Eqbal Husain,Dermatologist,55,Skin Clinic & Therapy Center,Patna,91%,Practo,₹1500
+Dr. Pushpendra Kumar Singh,Dermatologist,16,Tanishqa Skin Clinic,Patna,100%,Practo,₹300
+Dr. Mathura Prasad,Dermatologist,49,Dr.Mathura Prasad Clinic,Patna,75%,Practo,₹400
+Dr. Pragati Gogia,Dermatologist,16,Max Super Speciality Hospital,Lucknow,100%,Practo,₹800
+Dr. Shafali Yadav,Dermatologist,23,Max Super Speciality Hospital,Lucknow,95%,Practo,₹900
+Dr. Suyash Singh Tomar,Dermatologist,10,Dermax Skin Clinic,Lucknow,98%,Practo,₹500
+Dr. Riya Gupta,Dermatologist,7,Dermapuritys,Lucknow,50%,Practo,₹500
+Dr. Kanchan Srivastava,Dermatologist,24,The Doctor's Arena,Lucknow,92%,Practo,₹500
+Dr. Ratan Kumar Singh,Dermatologist,46,Suruchi Dermatalogy & Std Clinic,Lucknow,91%,Practo,₹1000
+Dr. Ajay Kumar Rai,Dermatologist,14,Indra Skin Clinic,Lucknow,98%,Practo,₹500
+Dr. Sumit Gupta,Dermatologist,19,Dr. Gupta's Skin and Hair Hospital,Lucknow,88%,Practo,Free Consultation
+Dr. Ali Mohammad Abdi,Dermatologist,11,Shafia Skin And Hair Clinic,Lucknow,100%,Practo,₹500
+Dr. Abhishek Pilani,Dermatologist,16,Assure,Lucknow,97%,Practo,Free Consultation
+Dr. L K Desai,Dermatologist,31,"Dr. Desai Dermacare- Skin, Hair & Laser Clinic",Pune,93%,Practo,₹700
+Dr. Mohan Nalawade,Dermatologist,26,PURE SKIN-Skin Hair Laser Clinic,Pune,92%,Practo,₹700
+Dr. Rangoli Jirwankar,Dermatologist,11,Dr Rangoli's Skin Hair and Laser Clinic,Pune,97%,Practo,₹1000
+Dr. Renu Jadhav,Dermatologist,20,Resolute Care,Pune,89%,Practo,₹700
+Dr. Avinash Urmil,Dermatologist,36,Ruby Hall Clinic,Pune,75%,Practo,₹700
+Dr. Amit Pal,Dermatologist,7,The Skin Doctors,Pune,97%,Practo,₹600
+Dr. Satywan Chaure,Dermatologist,21,SKIN CENTRAL - Advance Skin Hair Clinic ,Pune,85%,Practo,₹700
+Dr. Anupama,Dermatologist,9,The Skin Doctors,Pune,100%,Practo,₹600
+Dr. Sanvedana M Danej,Dermatologist,17,Dr Danej Heart Clinic & DermaSure Skin Aesthetics,Pune,92%,Practo,₹800
+Dr. Vijay Nagdev,Dermatologist,16,The Skin Doctors,Pune,92%,Practo,₹1200
+Dr. Tankala Rajkamal,Dermatologist,28,Care Hospital,Visakhapatnam,100%,Practo,₹650
+Dr. Sasi Kiran Attili,Dermatologist,22,Visakha Institute of Skin and Allergy,Visakhapatnam,98%,Practo,₹1200
+Dr. K.Venkata Chalam,Dermatologist,30,"Sri Gayatri Skin Care, Laser Clinic & Hair Transplant Centre",Visakhapatnam,98%,Practo,₹700
+Dr. K.V.T.Gopal,Dermatologist,24,Skin Care Clinic,Visakhapatnam,97%,Practo,₹600
+Dr. R Siri Sandhya Lakshmi,Dermatologist,9,OIiva Skin and Hair Clinic,Visakhapatnam,100%,Practo,₹900
+Dr. Kathyayani A,Dermatologist,14,Skin Studio,Visakhapatnam,98%,Practo,₹400
+Dr. Gopi Chand Dadithota,Dermatologist,25,Apollo Clinic,Visakhapatnam,78%,Practo,₹650
+Dr. Swetha Penmetsa,Dermatologist,12,Apollo Healthcity Hospital,Visakhapatnam,100%,Practo,₹400
+Dr. Sravanthi Alluri,Dermatologist,13,Novaskin Clinic,Visakhapatnam,93%,Practo,₹600
+Dr. Shivani Chalumuru,Dermatologist,6,OIiva Skin and Hair Clinic,Visakhapatnam,100%,Practo,₹900
+Dr. Padma,ENT,36,Srikara Hospitals,Hyderabad,93%,Practo,₹800
+Dr. Sushmitha,ENT,31,Aster Prime Hospital,Hyderabad,95%,Practo,₹600
+Dr. Hemanth Kumar .B,ENT,25,"Renova Hospital, Langar House",Hyderabad,88%,Practo,₹600
+Dr. M.Naveen Kumar,ENT,24,Dr. Deenadayals ENT Care Centre,Hyderabad,99%,Practo,₹800
+Dr. Farha Naaz,ENT,15,Premier Hospital,Hyderabad,,Practo,₹500
+Dr. Greeshma P,ENT,22,Blume Health - Multispeciality Hospital,Hyderabad,93%,Practo,₹1000
+Dr. Rahul B,ENT,22,Blume Health - Multispeciality Hospital,Hyderabad,94%,Practo,₹1000
+Dr. N Vishnu Swaroop Reddy,ENT,42,"CARE Hospitals Outpatient Centre, Banjara Hills",Hyderabad,55%,Practo,₹1000
+Dr. Anjaneyulu CH,ENT,37,Vivekananda Hospital,Hyderabad,78%,Practo,₹1000
+Dr. Santosh Kumar G,ENT,17,Sree Manju Hospitals,Hyderabad,75%,Practo,₹900
+Dr. Sunil Jalan,ENT,22,Sl Artemis Medical Centre Pvt Ltd,Kolkata,98%,Practo,₹1500
+Dr. Debasish Ghosh,ENT,25,Sl Artemis Medical Centre Pvt Ltd,Kolkata,100%,Practo,₹1500
+Dr. Amitava Roy,ENT,18,Samaritan Clinic Private Limited,Kolkata,100%,Practo,₹1500
+Dr. Kaushik Das,ENT,37,Techno India Dama Healthcare & Medical Centre,Kolkata,89%,Practo,₹1100
+Dr. K.D. Biswas,ENT,20,Samaritan Clinic Private Limited,Kolkata,,Practo,₹1500
+Dr. Soutrik Kumar,ENT,11,ENT and HNS Clinic,Kolkata,98%,Practo,₹700
+Dr. Udayshankar Roy,ENT,7,Baine Hospital,Kolkata,100%,Practo,₹500
+Dr. Paroma Mukherjee,ENT,7,Sl Artemis Medical Centre Pvt Ltd,Kolkata,100%,Practo,₹1200
+Dr. Ratnadeep Ghosh,ENT,23,Techno India Dama Healthcare & Medical Centre,Kolkata,73%,Practo,₹800
+Dr. Subhro Ganguly,ENT,15,Baine Hospital,Kolkata,100%,Practo,₹700
+Dr. Shankar.M.N,ENT,39,MGM Healthcare Malar Hospitals,Chennai,86%,Practo,₹800
+Dr. J Vinaignan,ENT,26,Sooriya Hospital - Vadapalani,Chennai,90%,Practo,₹800
+Dr. Sarrath Rathnaraajan S,ENT,15,Sooriya  Hospital - Nungambakkam,Chennai,,Practo,₹1000
+Dr. M. Venugopal,ENT,20,Noble Hospital,Chennai,100%,Practo,₹700
+Dr. Balamurugan,ENT,28,SRM Prime Hospital,Chennai,100%,Practo,₹600
+Dr. Ramakrishnan,ENT,16,MGM Healthcare Malar Hospitals,Chennai,89%,Practo,₹800
+Dr. R. Shyamala,ENT,40,Chettinad Super Speciality Hospital,Chennai,83%,Practo,₹900
+Dr. L Somu,ENT,30,SRM Prime Hospital,Chennai,78%,Practo,₹600
+Dr. Ashok Kumar S,ENT,21,Neuro Life Hospital,Chennai,,Practo,₹600
+Dr. Purushothaman P K,ENT,29,Dr. Rela Institute & Medical Centre,Chennai,,Practo,₹600
+Dr. Balbir Singh Gandhi,ENT,28,Sukhmani Hospital,Delhi,93%,Practo,₹1500
+Dr. (Major) Rajesh Kr. Bhardwaj,ENT,31,Med First ENT Center,Delhi,97%,Practo,₹3000
+Dr. Bulbul Gupta,ENT,28,Yatharth Super Speciality Hospital,Delhi,96%,Practo,₹1200
+Dr. I C Upreti,ENT,45,Jeewan Hospital Gate No. 1,Delhi,50%,Practo,₹700
+Dr. Lalit Mohan Parashar,ENT,42,SSB Multispeciality Hospital,Delhi,88%,Practo,₹1500
+Dr. Dhirendra Singh Kushwah,ENT,27,ORL International Hospital,Delhi,94%,Practo,₹1200
+Dr. Manju Bansal,ENT,24,Navjeevan Hospital,Delhi,58%,Practo,₹600
+Dr. R K Trivedi,ENT,55,Jeewan Mala Hospital,Delhi,86%,Practo,₹1000
+Dr. Anil Kumar,ENT,25,Mata Roop Rani Maggo Hospital and IVF Centre,Delhi,92%,Practo,₹800
+Dr. Sourav Chakraborty,ENT,16,Artemis Lite,Delhi,60%,Practo,₹1000
+Dr. Sharath G,ENT,15,Trilife Hospital,Bangalore,78%,Practo,₹1000
+Dr. Pradeep Hosamani,ENT,25,Apollo Hospitals,Bangalore,89%,Practo,₹800
+Dr. Prateek Nayak,ENT,22,Aster CMI Hospital,Bangalore,88%,Practo,₹1200
+Dr. Veena Yagna,ENT,18,Cavalier Hospital,Bangalore,93%,Practo,₹900
+Dr. Geeta N Shapur,ENT,24,Kauvery Hospitals,Bangalore,93%,Practo,₹800
+Dr. Stephen Antony,ENT,32,Divine Speciality Hospital,Bangalore,62%,Practo,₹800
+Dr. Nibha Raghu,ENT,16,Cytecare Hospitals,Bangalore,91%,Practo,₹1000
+Dr. B G Ravindra Babu,ENT,38,Camry Hospitals,Bangalore,90%,Practo,₹750
+Dr. Ravindra Kumar,ENT,43,Trilife Hospital,Bangalore,82%,Practo,₹1000
+Dr. Rani George,ENT,29,Koshys Hospital,Bangalore,87%,Practo,₹650
+Dr. Yessu Krishna Shetty,ENT,18,Thunga STH Hospital,Mumbai,97%,Practo,₹1000
+Dr. Adip K shetty,ENT,18,Apricity ENT Care Center,Mumbai,95%,Practo,₹1500
+Dr. Bhavik Shah,ENT,20,SRV-C Hospital,Mumbai,95%,Practo,₹1500
+Dr. Nilesh Choradia,ENT,17,Garg Multispeciality Hospital,Mumbai,100%,Practo,₹1200
+Dr. Trishna Chitnis,ENT,13,Thunga STH Hospital,Mumbai,100%,Practo,₹1500
+Dr. Vikrant Bagwe,ENT,12,Aum Superspeciality Hospital,Mumbai,88%,Practo,₹1000
+Dr. Ansari Mohammed Humaam,ENT,13,SRV-C Hospital,Mumbai,67%,Practo,₹1000
+Dr. Raveena Shetty,ENT,9,SRV-C Hospital,Mumbai,,Practo,₹1000
+Dr. Siddhi agrawal,ENT,11,Lifeline Multispeciality Hospital,Mumbai,6%,Practo,₹2000
+Dr. Krishna Vora,ENT,32,ENT Health Clinic,Mumbai,92%,Practo,₹1800
+Dr. Meghavi Rajeshbhai Modi,ENT,8,Bodyline Hospital,Ahmedabad,76%,Practo,₹600
+Dr. Rachana Parikh,ENT,33,Aeshaa Hospital,Ahmedabad,98%,Practo,₹700
+Dr. Vinita Bhagia,ENT,39,Apollo Hospital,Ahmedabad,100%,Practo,₹800
+Dr. Rohan Amin,ENT,18,Akshar ENT Hospital,Ahmedabad,100%,Practo,₹500
+Dr. Hemal Shah,ENT,14,Shalby Hospitals,Ahmedabad,100%,Practo,₹300
+Dr. Manish L Ninama,ENT,23,Swaram ENT Hospital,Ahmedabad,99%,Practo,₹800
+Dr. Bhaumik Shah,ENT,16,Krishna Shalby Hospital,Ahmedabad,100%,Practo,₹300
+Dr. Sanjana Amin,ENT,18,Akshar ENT Clinic,Ahmedabad,100%,Practo,₹500
+Dr. Heli Patel,ENT,10,Sattva Orthopedic & ENT Care,Ahmedabad,,Practo,₹350
+Dr. Navin Patel,ENT,39,ENT Care Associates,Ahmedabad,100%,Practo,₹1000
+Dr. Rishi Raj,ENT,25,Chandigarh ENT Clinic,Chandigarh,75%,Practo,₹1100
+Dr. Sanjiv Seth,ENT,38,Amcare Hospital,Chandigarh,100%,Practo,Free Consultation
+Dr. Raman Abrol,ENT,31,Abrol ENT Institute & Research Centre,Chandigarh,85%,Practo,₹1200
+Dr. Shishir Gupta,ENT,19,Dr Gupta Clinic Ent Care Center,Chandigarh,100%,Practo,₹400
+Dr. S C Pandhi,ENT,59,Pandhi Hospital,Chandigarh,67%,Practo,₹1000
+Dr. Ganesh Dutt Rattan,ENT,41,ENT Endoscopic Centre,Chandigarh,67%,Practo,₹700
+Dr. Sukhdev Singh,ENT,38,Dr. Sukhdev's ENT Clinic,Chandigarh,75%,Practo,₹700
+Dr. Nitin Mathur,ENT,26,THE E N T CLINIC,Chandigarh,81%,Practo,₹500
+Dr. Veneet Pandhi,ENT,29,Pandhi Hospital,Chandigarh,61%,Practo,₹800
+Dr. Tamanna Mahajan,ENT,12,Dr. Tamanna's ENT Care Centre,Chandigarh,100%,Practo,₹400
+Dr. Avinash Shekhar Jaiswal,ENT,10,Joy Hospital,Patna,,Practo,₹500
+Dr. Baban Kumar Singh,ENT,13,Care Infinity ENT And Maternity Centre,Patna,100%,Practo,₹500
+Dr. Manish Kumar,ENT,18,Panchlok Diagnostic Centre,Patna,97%,Practo,₹500
+Dr. Sonu Kumar Singh,ENT,17,Shalya ENT Centre,Patna,100%,Practo,₹350
+Dr. Gaurav Ashish,ENT,15,Vellore Ent Centre,Patna,85%,Practo,₹500
+Dr. Dhiren Kumar,ENT,34,Urniss ENT Clinic & Research Centre,Patna,89%,Practo,₹300
+Dr. Manoranjan  Kumar,ENT,23,Aarogya ENT Clinic - Pinnacle Hospital,Patna,89%,Practo,₹500
+Dr. Amarnath Prasad,ENT,19,Jeevan ENT And Maternity Hospital,Patna,100%,Practo,₹500
+Dr. Abhineet Lall,ENT,18,Pranidhana - Ear Nose Throat & Head Neck Clinic,Patna,82%,Practo,₹700
+Dr. Sanjay Kumar Shahi,ENT,32,Dr. Sanjay Kumar Shahi Clinic,Patna,71%,Practo,₹500
+Dr. Karan Bhatia,ENT,10,Cochlea Advanced Surgical Centre,Lucknow,99%,Practo,₹500
+Dr. Shiv Jee Prashant,ENT,15,ENT Vertigo Allergy Clinic,Lucknow,97%,Practo,₹500
+Dr. Nitya Singh,ENT,11,Medicare Polyclinic,Lucknow,86%,Practo,₹800
+Dr. Sonam Rathi,ENT,16,Max Super Speciality Hospital,Lucknow,100%,Practo,₹700
+Dr. Anil Gupta,ENT,12,Anayesha ENT Clinic,Lucknow,95%,Practo,₹500
+Dr. Mohit Sinha,ENT,22,Sarvagya Healthcare,Lucknow,100%,Practo,₹700
+Dr. Rajat Rastogi,ENT,21,SURYA ENT HOSPITAL AND RESEARCH CENTRE,Lucknow,99%,Practo,Free Consultation
+Dr. Rajiv Khanna,ENT,39,Dr Rajiv Khanna Clinic,Lucknow,78%,Practo,₹600
+Dr. Zeeshan Ahmad,ENT,15,Zeeshan ENT & Skull Base Clinic,Lucknow,90%,Practo,₹500
+Dr. Jaya Gupta,ENT,19,Ear-Nose-Throat (ENT) Clinic,Lucknow,100%,Practo,₹500
+Dr. Pravin Bhosale,ENT,32,Ruby Hall Clinic,Pune,,Practo,₹800
+Dr. Manoj M.Bauskar,ENT,25,Ruby Hall Clinic,Pune,90%,Practo,₹800
+Dr. Rupali Gulavani,ENT,31,Wisdom Super Speciality Hospital,Pune,82%,Practo,₹1000
+Dr. P K Bhagat,ENT,43,Pawar Multispeciality Hospital,Pune,,Practo,₹1100
+Dr. Manohar Suryawanshi,ENT,9,Medicover Hospital,Pune,,Practo,₹500
+Dr. Sumitpal Bhatti,ENT,36,Dr. Sumitpal Bhatti ENT Clinic,Pune,82%,Practo,₹1500
+Dr. Sarang Deshmukh,ENT,27,Elite Speciality Clinic,Pune,89%,Practo,₹1000
+Dr. Ajinkya Kelkar,ENT,15,Auricle ENT Care Clinic,Pune,94%,Practo,₹800
+Dr. Ajay Kothadiya,ENT,33,Kothadiya Ent Clinic,Pune,96%,Practo,₹700
+Dr. Monalisa Debbarman,ENT,18,Apollo Clinic,Pune,79%,Practo,₹750
+Dr. SRS Pavan Kumar Kannuru,ENT,15,Medicover Hospitals - Visakhapatnam,Visakhapatnam,67%,Practo,₹500
+Dr. Pradeep Kumar Palakonda,ENT,24,Apollo Health City,Visakhapatnam,100%,Practo,₹800
+Dr. Pradeep Kumar P,ENT,19,Apollo Healthcity Hospital,Visakhapatnam,,Practo,₹300
+Dr. Dannana Naveen Kumar,ENT,22,Apollo Health City,Visakhapatnam,,Practo,₹500
+Dr. Tummidi Veera Venkata Vinay Kumar,ENT,16,Apollo Clinic,Visakhapatnam,,Practo,₹350
+Dr. P. Krishnam Raju,ENT,28,Sri Krishna ENT Clinic & Sanhiti Children's Clinic,Visakhapatnam,99%,Practo,₹500
+Dr. S Sri Krishna Prakash,ENT,24,Gothi's Doctors chambers,Visakhapatnam,98%,Practo,₹500
+Dr. S. Sridhar,ENT,22,Sri SaiRam Eye And ENT Clinic,Visakhapatnam,100%,Practo,₹200
+Dr. Pradeep Vundavalli,ENT,15,Asian Super Speciality ENT Hospital,Visakhapatnam,94%,Practo,₹300
+Dr. Raju.P.L.N,ENT,27,Dr. Raju Advanced Hair Transplantation and Restoration Centre,Visakhapatnam,100%,Practo,₹500
+Dr. P S N Ravindar,General Physician,21,Srikara Hospitals,Hyderabad,70%,Practo,₹800
+Dr. K K Reddy Sadu,General Physician,25,K K Reddy Hospital,Hyderabad,96%,Practo,₹800
+Dr. Srinivas Jakkinaboina,General Physician,28,Shri Sigma Hospital,Hyderabad,80%,Practo,₹500
+Dr. Latha,General Physician,18,Ankura Hospital for Women & Children,Hyderabad,100%,Practo,₹700
+Dr. Prashanth Chandra NY,General Physician,18,"CARE Hospitals Outpatient Centre, Banjara Hills",Hyderabad,86%,Practo,₹850
+Dr. Ajit Kumar Azad,General Physician,20,Sree Manju Hospitals,Hyderabad,95%,Practo,₹700
+Dr. Mithil B Ghushe,General Physician,23,Medicover Hospitals - Hitech City,Hyderabad,87%,Practo,₹600
+Dr. Y Geeta Devi,General Physician,28,Health Valley Hospital,Hyderabad,90%,Practo,₹800
+Dr. Ravindra Kumar Sravanam,General Physician,16,Amor Hospitals,Hyderabad,100%,Practo,₹600
+Dr. M Aravind Kumar,General Physician,24,Vivekananda Hospital,Hyderabad,88%,Practo,₹700
+Dr. Chayan Kumar Roy,General Physician,31,Techno India Dama Healthcare & Medical Centre,Kolkata,63%,Practo,₹700
+Dr. Koushik Basu,General Physician,24,Techno India Dama Healthcare & Medical Centre,Kolkata,,Practo,₹800
+Dr. Mousumi Kundu,General Physician,18,Baine Hospital,Kolkata,,Practo,₹700
+Dr. Shambhu Vishal,General Physician,17,Techno India Dama Healthcare & Medical Centre,Kolkata,87%,Practo,₹600
+Dr. Ranadhi Das,General Physician,20,Baine Hospital,Kolkata,100%,Practo,₹600
+Dr. Shiv Krishna Mitra,General Physician,16,Samaritan Clinic Private Limited,Kolkata,,Practo,₹1500
+Dr. Anirban Basu,General Physician,22,Baine Hospital,Kolkata,94%,Practo,₹500
+Dr. Arka  Chatterjee,General Physician,17,Techno India Dama Healthcare & Medical Centre,Kolkata,,Practo,₹500
+Dr. Sadajit Banerjee,General Physician,13,Techno India Dama Healthcare & Medical Centre,Kolkata,,Practo,₹1000
+Dr. Pratik Kumar Mitra,General Physician,16,Techno India Dama Healthcare & Medical Centre,Kolkata,67%,Practo,₹1100
+Dr. A Gunasekaran,General Physician,33,Neuro Life Hospital,Chennai,94%,Practo,₹600
+Dr. Senthil Kumar V S,General Physician,26,Billroth Hospitals,Chennai,100%,Practo,₹400
+Dr. Ananth Padmanaban,General Physician,45,MGM Healthcare Malar Hospitals,Chennai,33%,Practo,₹700
+Dr. Srikanth Muralikrishnan,General Physician,30,Kannapa Memorial Hospital,Chennai,100%,Practo,₹800
+Dr. Vinod Prem Anand,General Physician,26,MGM Healthcare Malar Hospitals,Chennai,96%,Practo,₹800
+Dr. Dhivya Narasimhan,General Physician,17,Billroth Hospitals,Chennai,71%,Practo,₹550
+Dr. Anil Vaidya,General Physician,36,MGM Healthcare,Chennai,100%,Practo,₹1500
+Dr. S Ganesh,General Physician,44,MGM Healthcare Malar Hospitals,Chennai,79%,Practo,₹1000
+Dr. Pravin K Aggarwal,General Physician,45,MGM Healthcare Malar Hospitals,Chennai,88%,Practo,₹800
+Dr. Dhanasegaran S E,General Physician,28,Billroth Hospitals,Chennai,100%,Practo,₹1000
+Dr. Anirudh Lochan,General Physician,21,Jeevan Jyoti Clinic And Hospital,Delhi,,Practo,₹800
+Dr. Ajit Kumar Talukdar,General Physician,41,Jeewan Hospital Gate No. 1,Delhi,100%,Practo,₹700
+Dr. Madhukar Prakash,General Physician,27,Jeevan Jyoti Clinic And Hospital,Delhi,100%,Practo,₹1000
+Dr. Rajeev Gupta,General Physician,34,Yatharth Super Speciality Hospital,Delhi,94%,Practo,₹1200
+Dr. S.K. Tyagi,General Physician,43,Tyagi Nursing Home,Delhi,77%,Practo,₹1500
+Dr. Chandan Bhattacharya,General Physician,37,ORL International Hospital,Delhi,33%,Practo,₹1000
+Dr. Yatin Kukreja,General Physician,23,Artemis Lite,Delhi,98%,Practo,₹800
+Dr. Jayant Thakuria,General Physician,26,SSB Multispeciality Hospital,Delhi,88%,Practo,₹1200
+Dr. S K Bakshi,General Physician,44,Aashlok Hospital,Delhi,80%,Practo,₹1500
+Dr. Himanshu Shekhar,General Physician,20,SCI International Hospital,Delhi,83%,Practo,₹1000
+Dr. S Krishnamurthy,General Physician,32,SRV Agadi Hospital,Bangalore,,Practo,₹500
+Dr. Swati Bhat,General Physician,20,Hosmat Hospital,Bangalore,86%,Practo,₹1200
+Dr. Raghavendra R,General Physician,26,Aster CMI Hospital,Bangalore,100%,Practo,₹1200
+Dr. Tessie G Thoduka,General Physician,43,Koshys Hospital,Bangalore,92%,Practo,₹650
+Dr. Ravishankar Reddy C R,General Physician,33,Marvel Multispeciality Hospital,Bangalore,87%,Practo,₹1000
+Dr. Syed Abdul Nayeem,General Physician,17,Trilife Hospital,Bangalore,,Practo,₹1000
+Dr. Chikkalingaiah,General Physician,47,Medstar Speciality Hospital,Bangalore,69%,Practo,₹600
+Dr. Prabhu S,General Physician,25,Greenview Medical Center,Bangalore,67%,Practo,₹1000
+Dr. Pooja Pillai,General Physician,16,Aster CMI Hospital,Bangalore,100%,Practo,₹1100
+Dr. Suma Raju,General Physician,24,Sai Thunga Hospitals,Bangalore,85%,Practo,₹1000
+Dr. Dnyaneshwar Shinde,General Physician,25,USSH,Mumbai,93%,Practo,₹1500
+Dr. Chaurasia Vivek Kumar,General Physician,29,A1 Superspeciality Healthcare,Mumbai,71%,Practo,₹1000
+Dr. Ashish Sarwate,General Physician,29,Aditi Hospital,Mumbai,96%,Practo,₹1000
+Dr. Prashant Kini,General Physician,16,Platinum Hospital,Mumbai,98%,Practo,₹2000
+Dr. Madhava Karanth,General Physician,38,Sudhanshu Hospital & ICCU,Mumbai,,Practo,₹2500
+Dr. Manish Arora,General Physician,28,Sudhanshu Hospital & ICCU,Mumbai,,Practo,₹2000
+Dr. Kaustubh Durve,General Physician,19,Platinum Hospital,Mumbai,100%,Practo,₹2000
+Dr. Balbirsingh Kohli,General Physician,31,Platinum Hospital,Mumbai,,Practo,₹2000
+Dr. Milind Deole,General Physician,30,Mauli Aarogyam Multi Speciality Hospital,Mumbai,100%,Practo,₹1200
+Dr. Ajay garg,General Physician,46,Garg Multispeciality Hospital,Mumbai,,Practo,₹1500
+Dr. Pathak Harsh Dilipkumar,General Physician,15,Bodyline Hospital,Ahmedabad,91%,Practo,₹600
+Dr. S J Metalia,General Physician,39,Metalia Hospital And ICCU,Ahmedabad,92%,Practo,₹600
+Dr. Tapan Shah,General Physician,23,Sangini Hospital,Ahmedabad,98%,Practo,₹1200
+Dr. Harsh Maniar,General Physician,20,Sangini Hospital,Ahmedabad,98%,Practo,₹1200
+Dr. Kruti Godhani,General Physician,16,Ved Multispecility Clinic & Diagnostics,Ahmedabad,,Practo,₹800
+Dr. Shrikant Lagvankar,General Physician,46,Apollo Hospital,Ahmedabad,50%,Practo,₹1000
+Dr. Pooja Sharma,General Physician,4,Musk Clinic,Ahmedabad,100%,Practo,₹1000
+Dr. Pankaj Dubey,General Physician,29,Apollo Hospital,Ahmedabad,100%,Practo,₹800
+Dr. Jayesh Pavra,General Physician,31,The Health Care PolyClinic,Ahmedabad,97%,Practo,₹1000
+Dr. V R Tindwani,General Physician,52,Dr V R Tindwani Clinic,Ahmedabad,98%,Practo,₹600
+Dr. Preeti Singpho,General Physician,14,Cloudnine Hospital,Chandigarh,,Practo,₹800
+Dr. Suresh Kumar Bansal,General Physician,55,Eden Hospital,Chandigarh,85%,Practo,Free Consultation
+Dr. Sandeep Singh Chhatwal,General Physician,28,Omni Clinics And Diagnostics,Chandigarh,98%,Practo,₹1000
+Dr. S.K. Chawla,General Physician,47,Famicare Clinic,Chandigarh,90%,Practo,₹300
+Dr. J P Singh,General Physician,50,JP Medical Centre,Chandigarh,58%,Practo,₹700
+Dr. Ajit Gupta,General Physician,65,Dr. Ajit Gupta Clinic,Chandigarh,33%,Practo,₹200
+Dr. Puneet Mittal,General Physician,28,Advance Medical Clinic,Chandigarh,100%,Practo,₹300
+Dr. Sonica Chugh,General Physician,33,"Gynae, Fertility & IVF Centre",Chandigarh,80%,Practo,₹1000
+Dr. Damanjit,General Physician,50,JP Medical Centre,Chandigarh,100%,Practo,₹700
+Dr. Sanchit Kumar,General Physician,17,Chest & Sleep Care Clinic,Chandigarh,78%,Practo,₹600
+Dr. Gyan Bhushan Raman,General Physician,19,Elite Care Clinic,Patna,,Practo,₹500
+Dr. Farogh Haidry,General Physician,13,Dr. F. Haidry,Patna,88%,Practo,₹750
+Dr. Jyoti,General Physician,10,Awadh Radiance Pain Clinic,Patna,92%,Practo,₹500
+Dr. Animesh Gupta,General Physician,18,Gupta Clinic,Patna,99%,Practo,₹600
+Dr. Radhika Bajaj,General Physician,5,Dr Radhika Bajaj Clinic,Patna,100%,Practo,₹200
+Dr. Vaishnawi Singh,General Physician,7,Veda Health Care,Patna,,Practo,₹300
+Dr. Nilanjali Gautam,General Physician,2,Helix Healthcare,Patna,,Practo,₹500
+Dr. Pratyush Kumar Mishra,General Physician,14,Dr. Pratyush Kumar's Clinic,Patna,94%,Practo,₹500
+Dr. Amit Kumar,General Physician,25,DR AMIT KUMAR,Patna,89%,Practo,₹1000
+Dr. S S Eqbal Husain,General Physician,55,Skin Clinic & Therapy Center,Patna,91%,Practo,₹1500
+Dr. Faisal Zia,General Physician,18,Afifa Medical Clinic,Lucknow,100%,Practo,₹400
+Dr. Saurabh Agarwal,General Physician,18,Dr.Saurabh Agarwal Clinic,Lucknow,97%,Practo,₹700
+Dr. Rama Srivastava,General Physician,43,Jwala Hospital,Lucknow,88%,Practo,₹800
+Dr. S N Gupta,General Physician,39,Sanjivini Super Speciality Hospital,Lucknow,50%,Practo,₹1000
+Dr. Samir Mishra,General Physician,20,Max Super Speciality Hospital,Lucknow,,Practo,₹700
+Dr. Hriday Nath Tripathi,General Physician,49,Max Super Speciality Hospital,Lucknow,100%,Practo,₹700
+Dr. Jitendra Singh,General Physician,12,Sanjivini Super Speciality Hospital,Lucknow,,Practo,₹600
+Dr. Deepali Mohanty,General Physician,29,Max Super Speciality Hospital,Lucknow,100%,Practo,₹700
+Dr. Swadesh Kumar Singh,General Physician,27,Max Super Speciality Hospital,Lucknow,,Practo,₹700
+Dr. Sushil Kumar Gupta,General Physician,42,Max Super Speciality Hospital,Lucknow,50%,Practo,₹1000
+Dr. Shailaja Desai,General Physician,17,"Dr. Desai Dermacare- Skin, Hair & Laser Clinic",Pune,86%,Practo,₹700
+Dr. N.M. Rao,General Physician,44,Lotus Multispeciality Hospital,Pune,72%,Practo,₹1000
+Dr. Lata Patil,General Physician,37,Ruby Hall Clinic,Pune,,Practo,₹800
+Dr. Rameshwar Hudekar,General Physician,20,Sunmed Hospital,Pune,88%,Practo,₹700
+Dr. Harish Keswani,General Physician,40,Ruby Hall Clinic,Pune,,Practo,₹900
+Dr. Pramod Jagtap,General Physician,36,Ruby Hall Clinic,Pune,,Practo,₹800
+Dr. Janitha Gilbert,General Physician,17,Ruby Hall Clinic,Pune,,Practo,₹700
+Dr. Kshitij Raghuvanshi,General Physician,15,Ruby Hall Clinic,Pune,,Practo,₹1500
+Dr. Chandiwal Minish Mahendra,General Physician,35,Ruby Hall Clinic,Pune,,Practo,₹900
+Dr. Pandurang Sawant,General Physician,17,Dr. Sawant's Clinic - Mother & Child Care,Pune,95%,Practo,₹700
+Dr. Ravi Kumar GurugubeIli,General Physician,23,Medicover Hospitals - Visakhapatnam,Visakhapatnam,67%,Practo,₹800
+Dr. C H Madhuri,General Physician,30,Lotus Hospital For Women and Children,Visakhapatnam,100%,Practo,₹600
+Dr. Venkata Kiranmai G,General Physician,23,Medicover Hospitals - Visakhapatnam,Visakhapatnam,,Practo,₹500
+Dr. Satyanarayana G,General Physician,31,Care Hospital,Visakhapatnam,100%,Practo,₹650
+Dr. Thriveni Reddy,General Physician,22,Medicover Cancer Institute,Visakhapatnam,,Practo,₹600
+Dr. Meghanatham Yenni,General Physician,19,Medicover Hospitals - Visakhapatnam,Visakhapatnam,100%,Practo,₹500
+Dr. K Vamsi Krishna,General Physician,19,Medicover Hospitals - Visakhapatnam,Visakhapatnam,100%,Practo,₹800
+Dr. Sanku Ganeswara Naidu,General Physician,34,Lotus Hospital For Women and Children,Visakhapatnam,,Practo,₹900
+Dr. Chittaranjan Naidu,General Physician,17,Medicover Hospitals - Visakhapatnam,Visakhapatnam,,Practo,₹600
+Dr. Aravind Varma Datla,General Physician,9,Medicover Hospitals - Visakhapatnam,Visakhapatnam,,Practo,₹500
+Dr. Srujan Kumar Bellapu,General Surgeon,23,Aster Prime Hospital,Hyderabad,100%,Practo,₹600
+Dr. Rehan Sabir Momin,General Surgeon,16,MAVEN MEDICAL CENTER,Hyderabad,98%,Practo,₹750
+Dr. Brahmananda Reddy C H,General Surgeon,27,Archana Hospitals,Hyderabad,100%,Practo,₹700
+Dr. Krishna Mohan K,General Surgeon,21,Renova Hospitals,Hyderabad,100%,Practo,₹500
+Dr. CH. Venkata Pavan Kumar,General Surgeon,21,Medicover Hospitals - Hitech City,Hyderabad,67%,Practo,₹600
+Dr. Salecha Priyank Ashokkumar,General Surgeon,17,Archana Hospitals,Hyderabad,95%,Practo,₹600
+Dr. Satish Reddy Pullalrevu,General Surgeon,30,Medicover Hospital,Hyderabad,75%,Practo,₹1000
+Dr. P. Sharath Chandra Kaushik,General Surgeon,22,Medicover Hospitals - Hitech City,Hyderabad,33%,Practo,₹600
+Dr. Rohith Kumar Nayak,General Surgeon,34,Archana Hospitals,Hyderabad,33%,Practo,₹450
+Dr. Sanjeev Singh Yadav,General Surgeon,38,MAVEN MEDICAL CENTER,Hyderabad,93%,Practo,₹750
+Dr. Subhasis Saha,General Surgeon,27,Baine Hospital,Kolkata,,Practo,₹600
+Dr. Mukesh Kumar Vijay,General Surgeon,25,Sl Artemis Medical Centre Pvt Ltd,Kolkata,86%,Practo,₹2000
+Dr. Gaurav Priyadarshan,General Surgeon,15,Sl Artemis Medical Centre Pvt Ltd,Kolkata,,Practo,₹1200
+Dr. Pallab Saha,General Surgeon,28,Sl Artemis Medical Centre Pvt Ltd,Kolkata,100%,Practo,₹1300
+Dr. Prasenjit Bhattacharya,General Surgeon,18,Samaritan Clinic Private Limited,Kolkata,83%,Practo,₹1600
+Dr. Debtanu Bhattacharya,General Surgeon,30,Sl Artemis Medical Centre Pvt Ltd,Kolkata,100%,Practo,₹1200
+Dr. Naba Kumar Saha,General Surgeon,30,Sl Artemis Medical Centre Pvt Ltd,Kolkata,100%,Practo,₹1500
+Dr. Anindita Bhar,General Surgeon,26,Sl Artemis Medical Centre Pvt Ltd,Kolkata,67%,Practo,₹1200
+Dr. Achintya Kumar,General Surgeon,32,Sl Artemis Medical Centre Pvt Ltd,Kolkata,,Practo,₹1500
+Dr. Amit Kumar Das,General Surgeon,17,Sl Artemis Medical Centre Pvt Ltd,Kolkata,100%,Practo,₹800
+Dr. Selva Seetha Raman,General Surgeon,23,Prime Indian Hospitals,Chennai,94%,Practo,₹800
+Dr. G Kumaragurubaran,General Surgeon,29,Billroth Hospitals,Chennai,95%,Practo,₹400
+Dr. R Kannan,General Surgeon,31,Prime Indian Hospitals,Chennai,89%,Practo,₹500
+Dr. Rajkumar Rathinasamy,General Surgeon,26,Suraj Hospital,Chennai,86%,Practo,₹800
+Dr. R Jayaganesh,General Surgeon,38,Billroth Hospital,Chennai,90%,Practo,₹800
+Dr. Balaji Ravilla Baskara,General Surgeon,27,Noble Hospital,Chennai,97%,Practo,₹250
+Dr. Sivakumar Mahalingam,General Surgeon,21,MGM Cancer Institute,Chennai,100%,Practo,₹1300
+Dr. Venkatesh B S,General Surgeon,17,MGM Healthcare Malar Hospitals,Chennai,100%,Practo,₹1000
+Dr. S R Subrammaniyan,General Surgeon,42,Billroth Hospitals,Chennai,89%,Practo,₹1000
+Dr. Anil Vaidya,General Surgeon,36,MGM Healthcare,Chennai,100%,Practo,₹1500
+Dr. Satish Tyagi,General Surgeon,40,Tyagi Hospital & Maternity Centre ,Delhi,100%,Practo,₹1000
+Dr. Avinder Sabharwal,General Surgeon,28,Jeewan hospital gate no 2,Delhi,100%,Practo,₹800
+Dr. Vipender Sabherwal,General Surgeon,28,Jeewan Hospital Gate No. 1,Delhi,95%,Practo,₹700
+Dr. Kapil Kochhar,General Surgeon,32,Artemis Lite,Delhi,55%,Practo,₹1500
+Dr. R S Gandhi,General Surgeon,37,Kalra  Hospitals,Delhi,67%,Practo,₹1000
+Dr. Sanjeev Kumar Gupta,General Surgeon,29,SCI International Hospital,Delhi,67%,Practo,₹800
+Dr. Nagendra Kumar Kulkarni,General Surgeon,31,Park Hospital,Delhi,,Practo,₹800
+Dr. Vinay Sabharwal,General Surgeon,50,Jeewan Mala Hospital,Delhi,89%,Practo,₹900
+Dr. Mohit Jain,General Surgeon,26,Ansari Hospital,Delhi,91%,Practo,₹500
+Dr. Shiv Chopra,General Surgeon,35,Cronus Multispeciality Hospital,Delhi,50%,Practo,₹1000
+Dr. Anthony Vijay Pais,General Surgeon,43,Hosmat Hospital Pvt Ltd,Bangalore,100%,Practo,₹750
+Dr. Vithal Malmande,General Surgeon,21,HOSMAT Hospital,Bangalore,100%,Practo,₹750
+Dr. Shakir Tabrez,General Surgeon,24,Trilife Hospital,Bangalore,97%,Practo,₹1200
+Dr. Maruthesh Gowda,General Surgeon,22,Koshys Hospital,Bangalore,95%,Practo,₹650
+Dr. Anil Agadi,General Surgeon,33,SRV Agadi Hospital,Bangalore,100%,Practo,₹600
+Dr. Arun Kumar,General Surgeon,36,Greenview Medical Center,Bangalore,86%,Practo,₹1500
+Dr. Sonal Asthana,General Surgeon,32,Aster CMI Hospital,Bangalore,85%,Practo,₹1200
+Dr. Raghunandan K S,General Surgeon,24,Chord Road Hospital,Bangalore,97%,Practo,₹600
+Dr. Suhas S,General Surgeon,16,SRV Agadi Hospital,Bangalore,100%,Practo,₹800
+Dr. Aravind S Kapali,General Surgeon,23,Koshys Hospital,Bangalore,100%,Practo,₹1000
+Dr. Pradeep Shriyan,General Surgeon,31,SRV Hospitals Goregaon,Mumbai,100%,Practo,₹1500
+Dr. Nikhil Gawde,General Surgeon,17,Surana Sethia Hospital and Research Center,Mumbai,100%,Practo,₹1000
+Dr. Suresh Rao,General Surgeon,48,Sanjeevani Mamta Hospital & Research Centre,Mumbai,100%,Practo,₹1000
+Dr. Nilesh Chordiya,General Surgeon,26,SSO Cancer Clinic,Mumbai,98%,Practo,₹2000
+Dr. Pankaj Gandhi,General Surgeon,30,Suvidha Hospital & Polyclinic,Mumbai,80%,Practo,₹700
+Dr. Vicky Jain,General Surgeon,20,Surana Sethia Hospital and Research Center,Mumbai,98%,Practo,₹2000
+Dr. Bharat S Powdwal,General Surgeon,46,A1 Superspeciality Healthcare,Mumbai,,Practo,₹1000
+Dr. Manoj Aithal,General Surgeon,24,Suvidha Hospital & Polyclinic,Mumbai,100%,Practo,₹1000
+Dr. Amol Suresh Patil,General Surgeon,25,Aum Superspeciality Hospital,Mumbai,100%,Practo,₹1500
+Dr. Kamran Khan,General Surgeon,35,Specialty Surgical Oncology Hospital and Research,Mumbai,95%,Practo,₹4000
+Dr. Dhaval Patel,General Surgeon,17,Gayatri hospital and research center,Ahmedabad,100%,Practo,₹800
+Dr. Kelawala Zalak Bhadreshbhai,General Surgeon,12,Bodyline Hospital,Ahmedabad,,Practo,₹1100
+Dr. Kamlesh Ram,General Surgeon,19,Dr. Ram’s Advanced Surgical Hospital,Ahmedabad,94%,Practo,₹1500
+Dr. Chirag J. Shah,General Surgeon,25,Arham Surgical Hospital & Laparoscopic center,Ahmedabad,94%,Practo,₹1000
+Dr. Kaushik Gajjar,General Surgeon,45,Parth Hospital,Ahmedabad,100%,Practo,₹800
+Dr. Kinnar Kapadia,General Surgeon,25,Avenues Hair Transplant And Plastic Surgery Center,Ahmedabad,99%,Practo,₹600
+Dr. Shubha Sinha,General Surgeon,18,Apollo Hospitals City Centre,Ahmedabad,,Practo,₹1100
+Dr. Tushar Lakhia,General Surgeon,49,Apollo Hospitals City Centre,Ahmedabad,,Practo,₹900
+Dr. Adheesh Goriwal,General Surgeon,13,SAL Hospital,Ahmedabad,,Practo,₹1000
+Dr. Anagha Santosh Zope,General Surgeon,32,Apollo Hospital,Ahmedabad,100%,Practo,₹1100
+Dr. Sanjeev Bhatia,General Surgeon,24,Global Health Care Clinic,Chandigarh,94%,Practo,₹500
+Dr. Alok Ahuja,General Surgeon,34,Dr. Alok Ahuja's Clinic,Chandigarh,33%,Practo,₹300
+Dr. Ashok Sharma,General Surgeon,49,Laparoscopic and General Surgery Clinic,Chandigarh,,Practo,₹500
+Dr. Anil Bhardwaj,General Surgeon,49,Bhardwaj Clinic,Chandigarh,100%,Practo,₹300
+Dr. Pawan Mittal,General Surgeon,23,VCare Hospital,Chandigarh,75%,Practo,₹500
+Dr. Harsh Kumar Aggarwal,General Surgeon,31,Tarini's Hair Transplant Clinic,Chandigarh,100%,Practo,₹400
+Dr. Gursimran Singh,General Surgeon,14,Apollo Clinic,Chandigarh,,Practo,₹600
+Dr. Ravul Jindal,General Surgeon,32,Indian Vascular Surgery Centre (IVS),Chandigarh,76%,Practo,₹2000
+Dr. Vivek Singla,General Surgeon,21,Landmark Hospital,Chandigarh,100%,Practo,₹500
+Dr. Sumit Singh Gautam,General Surgeon,12,Healing Hospital,Chandigarh,,Practo,₹700
+Dr. Shabbir Ahmad Warsi,General Surgeon,29,Aura Cosmetic Surgery Klinik,Patna,85%,Practo,₹700
+Dr. Deepak Kumar Jha,General Surgeon,15,Om Sai Surgery Clinic and Eye Care Centre,Patna,96%,Practo,₹500
+Dr. Abhay Kumar,General Surgeon,29,Big Apollo Spectra Multi Speciality Hospital,Patna,100%,Practo,₹750
+Dr. Jawahar Prasad Gupta,General Surgeon,54,Gupta Clinic,Patna,50%,Practo,₹700
+Dr. Nand Kishore Vidyarthi,General Surgeon,51,Care Poly Clinic & Surgical Center,Patna,,Practo,₹300
+Dr. Shiv Kishor,General Surgeon,14,Ramkrishna Memorial Medical And Dental Center,Patna,90%,Practo,₹500
+Dr. Anil Kumar,General Surgeon,25,Patna Ortho Clinic,Patna,100%,Practo,₹500
+Dr. Bijay Kumar,General Surgeon,25,Ambika Memorial Trust,Patna,100%,Practo,₹500
+Dr. Prashant Kumar Gupta,General Surgeon,23,Patna,Patna,100%,Practo,Free Consultation
+Dr. Shashwat Kumar,General Surgeon,11,Medipark Superspeciality Hospital,Patna,100%,Practo,Free Consultation
+Dr. Tarun Agarwal,General Surgeon,27,Gopi Krishna Laser Stone Centre,Lucknow,99%,Practo,₹600
+Dr. Ashish Anand,General Surgeon,15,Max Super Speciality Hospital,Lucknow,100%,Practo,₹700
+Dr. Rama Srivastava,General Surgeon,43,Jwala Hospital,Lucknow,88%,Practo,₹800
+Dr. Aakash Bora,General Surgeon,14,D P Bora Superspeciality Hospital,Lucknow,100%,Practo,₹500
+Dr. Farah Arshad,General Surgeon,29,Max Super Speciality Hospital,Lucknow,100%,Practo,₹700
+Dr. Rahul singh,General Surgeon,22,Max Super Speciality Hospital,Lucknow,83%,Practo,₹900
+Dr. S P Singh,General Surgeon,24,Charak Hospital,Lucknow,93%,Practo,₹800
+Dr. Hari Om Gupta,General Surgeon,21,Arna Surgicare,Lucknow,97%,Practo,₹200
+Dr. Nikhil Puri,General Surgeon,15,Medwell Hospital,Lucknow,91%,Practo,Free Consultation
+Dr. Navneet Tripathi,General Surgeon,19,HealthCity Trauma Centre & Superspeciality Hospital,Lucknow,100%,Practo,Free Consultation
+Dr. Abhijit A Whatkar,General Surgeon,17,Noble Hospital,Pune,99%,Practo,₹800
+Dr. Parmeshwar Babulal Bambrule,General Surgeon,16,Noble Hospital,Pune,95%,Practo,₹1000
+Dr. Kundan Kharde,General Surgeon,19,Sharvari Hospital,Pune,95%,Practo,₹1000
+Dr. Prashant Kedari,General Surgeon,27,Jeevan Jyoti Superspeciality Hospital,Pune,86%,Practo,₹1200
+Dr. Rakesh Neve,General Surgeon,31,Lifepoint Multispeciality Hospital,Pune,100%,Practo,₹1500
+Dr. Ashish Kumar Shrivastav,General Surgeon,26,Devi Ratna Multispeciality Hospital,Pune,88%,Practo,₹1000
+Dr. Dinesh Jain Bhermal,General Surgeon,36,Ruby Hall Clinic,Pune,100%,Practo,₹900
+Dr. Shilpy Dolas,General Surgeon,20,Ruby Hall Clinic,Pune,97%,Practo,₹1200
+Dr. Shama Shaikh,General Surgeon,24,Ruby Hall Clinic,Pune,62%,Practo,₹700
+Dr. Umesh Paprunia,General Surgeon,33,Noble Hospital,Pune,,Practo,₹850
+Dr. Baratam Ananta Rao,General Surgeon,21,Medicover Hospitals - Visakhapatnam,Visakhapatnam,100%,Practo,₹500
+Dr. Sujit Kumar Mohanty,General Surgeon,31,Medicover Hospitals - Visakhapatnam,Visakhapatnam,,Practo,₹800
+Dr. Alamuri Ramesh,General Surgeon,21,Medicover Cancer Institute,Visakhapatnam,,Practo,₹800
+Dr. Biswabasu Das,General Surgeon,32,Care Hospital,Visakhapatnam,100%,Practo,₹600
+Dr. Ramanujam Chekka,General Surgeon,23,Medicover Hospitals - Visakhapatnam,Visakhapatnam,,Practo,₹600
+Dr. Karthik Chandra Vallam,General Surgeon,20,Medicover Cancer Institute,Visakhapatnam,100%,Practo,₹800
+Dr. Yalla Deepak Vamsi,General Surgeon,18,Medicover Hospitals - Visakhapatnam,Visakhapatnam,,Practo,₹500
+Dr. Dadala Durga Bhavani,General Surgeon,10,Care Hospital,Visakhapatnam,,Practo,₹600
+Dr. Metta Jayachandra Reddy,General Surgeon,15,Care Hospital,Visakhapatnam,,Practo,₹650
+Dr. K S Krishna Prasad,General Surgeon,18,Shiva Shakthi Hospital,Visakhapatnam,,Practo,₹600
+Dr. M Kalpana,Gynecologist,22,Kasturi Hospital,Hyderabad,86%,Practo,₹700
+Dr. L Revathi,Gynecologist,32,Vijaya Nursing Home,Hyderabad,93%,Practo,₹750
+Dr. Kranti Silpa P,Gynecologist,19,"CARE Hospitals Outpatient Centre, Banjara Hills",Hyderabad,100%,Practo,₹1000
+Dr. P Annapurna,Gynecologist,26,Vijaya Nursing Home,Hyderabad,100%,Practo,₹650
+Dr. Jayashree Reddy,Gynecologist,47,Ankura hospital for women and children,Hyderabad,94%,Practo,₹1000
+Dr. Sireesha TV,Gynecologist,17,Aster Prime Hospital,Hyderabad,100%,Practo,₹600
+Dr. Roopa Ghanta,Gynecologist,31,Little Stars Children's Clinic,Hyderabad,86%,Practo,₹500
+Dr. Parinaaz Parhar,Gynecologist,18,Oasis Fertility,Hyderabad,100%,Practo,Free Consultation
+Dr. Latha,Gynecologist,18,Ankura Hospital for Women & Children,Hyderabad,100%,Practo,₹700
+Dr. Syeda Iram Fatima,Gynecologist,26,Ankura Hospital for Women and Children,Hyderabad,94%,Practo,₹700
+Dr. Bidisha Roy Choudhury,Gynecologist,19,Sl Artemis Medical Centre Pvt Ltd,Kolkata,97%,Practo,₹1200
+Dr. Nandini Chakrabarti,Gynecologist,33,Techno India Dama Healthcare & Medical Centre,Kolkata,54%,Practo,₹800
+Dr. Dipankar Bhattacharya,Gynecologist,24,Samaritan Clinic Private Limited,Kolkata,67%,Practo,₹1500
+Dr. Debmalya Maity,Gynecologist,21,Sl Artemis Medical Centre Pvt Ltd,Kolkata,33%,Practo,₹1500
+Dr. Alok Kumar De,Gynecologist,28,Techno India Dama Healthcare & Medical Centre,Kolkata,,Practo,₹600
+Dr. Sukhamoy Barik,Gynecologist,19,Binayak Imaging And Diagnostic Center,Kolkata,99%,Practo,₹800
+Dr. Ritwik Ghosh Haldar,Gynecologist,12,Care Genix Clinic & Diagnostics,Kolkata,,Practo,₹800
+Dr. Tammna Hussain,Gynecologist,9,Sl Artemis Medical Centre Pvt Ltd,Kolkata,100%,Practo,₹1200
+Dr. Sreeparna Roy,Gynecologist,8,Birla Fertility and IVF,Kolkata,,Practo,₹800
+Dr. Arnab Kundu,Gynecologist,15,Techno India Dama Healthcare & Medical Centre,Kolkata,,Practo,₹1100
+Dr. Nandhini Elumalai,Gynecologist,15,SRM Prime Hospital,Chennai,100%,Practo,₹600
+Dr. K.S Jeyarani Kamaraj,Gynecologist,38,Aakash Fertility Centre & Hospital,Chennai,91%,Practo,₹600
+Dr. Chithra,Gynecologist,28,Lakshya Fertility Centre,Chennai,93%,Practo,₹500
+Dr. Sadhana Vezhaventhan,Gynecologist,27,Saanvi Fertility Centre Urology and Stone Centre,Chennai,97%,Practo,₹500
+Dr. P Krishnamma,Gynecologist,51,Noble Hospital,Chennai,82%,Practo,₹500
+Dr. Lakshmi Devarajan,Gynecologist,54,Billroth Hospitals,Chennai,81%,Practo,₹650
+Dr. Hema Vaithianathan,Gynecologist,20,Oasis Fertility,Chennai,100%,Practo,Free Consultation
+Dr. S.Samundi Sankari,Gynecologist,54,Srushti Fertility Centre & Women's Hospital,Chennai,93%,Practo,₹1000
+Dr. Dhivya Narasimhan,Gynecologist,17,Billroth Hospitals,Chennai,71%,Practo,₹550
+Dr. Padma Priya B,Gynecologist,22,Sri Srinivasa Hospital,Chennai,93%,Practo,₹500
+Dr. Yachna Grover,Gynecologist,34,Netrayatan Dr. Grovers Centre For Eye Care &  Infertility,Delhi,98%,Practo,₹1500
+Dr. Ruchi Tandon,Gynecologist,21,SCI International Hospital,Delhi,84%,Practo,₹1000
+Dr. Shweta Sardana Lochan,Gynecologist,20,Jeevan Jyoti Clinic And Hospital,Delhi,73%,Practo,₹1000
+Dr. Shivani Sachdev Gour,Gynecologist,28,SCI International Hospital,Delhi,83%,Practo,₹1500
+Dr. Shalini Tiwari,Gynecologist,26,Surya Hospital,Delhi,85%,Practo,₹700
+Dr. Nilotpala Mohanty,Gynecologist,26,Cronus Multispeciality Hospital,Delhi,87%,Practo,₹1000
+Dr. Suyesha Khanijao,Gynecologist,18,Sawan Neelu Angels Nursing Home,Delhi,93%,Practo,₹1500
+Dr. Kumkum Sharma,Gynecologist,42,Cronus Multispeciality Hospital,Delhi,97%,Practo,₹1000
+Dr. Pooja Gupta,Gynecologist,23,SRG Speciality Hospital,Delhi,83%,Practo,₹800
+Dr. Pratibha Gupta,Gynecologist,25,Healing Hands PG Gynaecology & Urology Center,Delhi,94%,Practo,₹700
+Dr. Savitha Shetty,Gynecologist,34,Apollo Hospitals,Bangalore,90%,Practo,₹800
+Dr. M. Gowri,Gynecologist,36,Ovum Woman and Child Speciality Hospital,Bangalore,90%,Practo,₹850
+Dr. Sushma P Pampanavar,Gynecologist,18,Aveksha Hospital,Bangalore,99%,Practo,₹400
+Dr. Sumangala Chikkamath,Gynecologist,24,Medax Hospitals Gottigere LLP,Bangalore,100%,Practo,₹500
+Dr. Nivedita,Gynecologist,15,Even Hospitals,Bangalore,98%,Practo,₹300
+Dr. Ruksana Kusther,Gynecologist,32,Ovum Woman & Child Speciality Hospital,Bangalore,98%,Practo,₹900
+Dr. Mamatha Reddy Y V,Gynecologist,29,Marvel Multispeciality Hospital,Bangalore,94%,Practo,₹800
+Dr. Shwetha Y Baratikkae,Gynecologist,22,Janisthaa Fertility and IVF center,Bangalore,94%,Practo,₹700
+Dr. Archana Agarwal,Gynecologist,33,Mannat Fertility Clinic,Bangalore,86%,Practo,₹700
+Dr. Nawal Anagha Sahebrao,Gynecologist,23,Tamara Hospital,Bangalore,50%,Practo,₹600
+Dr. Vidya Patil,Gynecologist,30,Arya Women's Hospital,Mumbai,85%,Practo,₹1500
+Dr. Raju Sahetya,Gynecologist,47,Pushpaa Hospital,Mumbai,95%,Practo,₹1500
+Dr. Ila Tyagi,Gynecologist,34,SRV-C Hospital,Mumbai,78%,Practo,₹1500
+Dr. Vaishali Killekar (Bhurke),Gynecologist,26,Mauli Aarogyam Multi Speciality Hospital,Mumbai,91%,Practo,₹1000
+Dr. Sheetal Pandey Tejwani,Gynecologist,17,Veda Fertility And Urology Care,Mumbai,96%,Practo,₹1000
+Dr. Pradnya Roy,Gynecologist,26,Mallika Hospital,Mumbai,100%,Practo,₹1000
+Dr. Ankesh Sahetya,Gynecologist,18,Pushpaa Hospital,Mumbai,99%,Practo,₹1500
+Dr. Namrita Sheregar,Gynecologist,20,Nakshatra Multispeciality Hospital,Mumbai,98%,Practo,₹1200
+Dr. Ruchika Vernekar Ajit,Gynecologist,16,Mauli Aarogyam Multi Speciality Hospital,Mumbai,,Practo,₹1200
+Dr. Amit Upadhyay,Gynecologist,19,Aum Superspeciality Hospital,Mumbai,100%,Practo,₹1500
+Dr. Parth Joshi,Gynecologist,17,Indira IVF - Fertility and IVF Center,Ahmedabad,,Practo,₹500
+Dr. Kawad Kishore Dhanjibhai,Gynecologist,18,Indira IVF - Fertility and IVF Center,Ahmedabad,100%,Practo,₹500
+Dr. Hardik K. Shah,Gynecologist,23,Mothercare Women's  Hospital,Ahmedabad,99%,Practo,₹600
+Dr. Urvashi Shah,Gynecologist,11,Bodyline Hospital,Ahmedabad,63%,Practo,₹600
+Dr. Bhargavkumar  Nimavat,Gynecologist,12,Indira IVF - Fertility and IVF Center,Ahmedabad,,Practo,₹500
+Dr. Meenu Shah,Gynecologist,24,Tulip Women's Hospital,Ahmedabad,98%,Practo,₹1000
+Dr. Manish Shah,Gynecologist,24,Tulip Women's Hospital,Ahmedabad,100%,Practo,₹1000
+Dr. Mahesh Jariwala,Gynecologist,32,Jariwala Women's Hospital,Ahmedabad,100%,Practo,₹1000
+Dr. Dhaval Shah,Gynecologist,27,Saavi Women's Hospital,Ahmedabad,98%,Practo,₹1000
+Dr. Bhaumik Shah,Gynecologist,22,Shree Shreeji Women's Hospital,Ahmedabad,99%,Practo,₹600
+Dr. Shikha Sardana,Gynecologist,18,Milann Fertility Hospital,Chandigarh,100%,Practo,₹800
+Dr. Sukriti Sharma,Gynecologist,16,Birla Fertility And IVF,Chandigarh,100%,Practo,₹800
+Dr. Bhawna Agarwal,Gynecologist,21,Sadhbhavna Clinic,Chandigarh,96%,Practo,₹700
+Dr. Parul Monga,Gynecologist,14,Bedi Hospital,Chandigarh,100%,Practo,₹1000
+Dr. Ritika Bajaj,Gynecologist,19,Cloudnine Hospital,Chandigarh,,Practo,₹1000
+Dr. Simrat Kaur,Gynecologist,11,Cloudnine Hospital,Chandigarh,,Practo,₹800
+Dr. Pragya Goel,Gynecologist,25,Cloudnine Hospital,Chandigarh,100%,Practo,₹1000
+Dr. Seema Sharma,Gynecologist,30,Cloudnine Hospital,Chandigarh,96%,Practo,₹1000
+Dr. Ritambhra Bhalla,Gynecologist,29,Cloudnine Hospital,Chandigarh,96%,Practo,₹1000
+Dr. Kanchi Khurana,Gynecologist,16,"Cloudnine Fertility - IVF Centre, Chandigarh",Chandigarh,50%,Practo,₹900
+Dr. Soni Kumari,Gynecologist,13,Navlok Care Hospital ,Patna,75%,Practo,₹500
+Dr. Shradha Chakhaiyar,Gynecologist,20,Niranjan Aarogya Niketan and Research Centre,Patna,95%,Practo,₹500
+Dr. Vandana Mishra,Gynecologist,18,Good News IVF Clinic,Patna,83%,Practo,₹600
+Dr. Shikha Verma,Gynecologist,15,Medstar Hospital,Patna,88%,Practo,₹500
+Dr. Indu Khare,Gynecologist,8,Care Infinity ENT And Maternity Centre,Patna,100%,Practo,₹500
+Dr. Bindu Sinha,Gynecologist,44,Big Apollo Spectra Multi Speciality Hospital,Patna,,Practo,₹750
+Dr. Jyoti Kumari,Gynecologist,21,Centre For Women,Patna,86%,Practo,₹600
+Dr. Anjali,Gynecologist,9,GP Nursing Home and Maternity Centre,Patna,100%,Practo,₹650
+Dr. Rashmi Prasad,Gynecologist,33,Diwya Vatsalya Mamta Fertility Centre,Patna,77%,Practo,₹500
+Dr. Manpreet Kaur,Gynecologist,22,Vansh Test Tube Baby Centre,Patna,100%,Practo,₹1000
+Dr. Ravita Srivastava,Gynecologist,31,Ravita Medicare,Lucknow,80%,Practo,₹700
+Dr. Disha Datta Choudhury,Gynecologist,11,Seeds of Innocens IVF Centre,Lucknow,,Practo,Free Consultation
+Dr. Bhumika Bansal,Gynecologist,17,Max Super Speciality Hospital,Lucknow,88%,Practo,₹700
+Dr. Kanchan Singh,Gynecologist,13,Amrapali Hospital,Lucknow,100%,Practo,₹900
+Dr. Sonia Luthra,Gynecologist,26,Gynae Care Centre,Lucknow,92%,Practo,₹500
+Dr. Preeti Yadav,Gynecologist,14,Dr. PREETI YADAV CLINIC,Lucknow,100%,Practo,₹800
+Dr. Sunita Chandra,Gynecologist,38,Rajendra Nagar Hospital,Lucknow,92%,Practo,₹1200
+Dr. Ina Gupta,Gynecologist,39,Dr Ina Gupta's Obs & Gynae Clinic,Lucknow,67%,Practo,₹500
+Dr. Humaira Siddiqui,Gynecologist,16,Sanjivini Super Speciality Hospital,Lucknow,100%,Practo,₹600
+Dr. Garima Gupta,Gynecologist,17,Mom's Express ( Indus Maternity Centre),Lucknow,95%,Practo,₹500
+Dr. Mithil Patil,Gynecologist,24,Ashwini Hospital & Fertility Clinics ,Pune,96%,Practo,₹600
+Dr. Nilesh Unmesh Balkawade,Gynecologist,18,Oasis Fertility,Pune,93%,Practo,Free Consultation
+Dr. Kirti Joglekar,Gynecologist,47,Gynaeworld Hospital,Pune,100%,Practo,₹2000
+Dr. Kapil Kanade,Gynecologist,23,Sunshine Hospital,Pune,89%,Practo,₹700
+Dr. Soniya Pawar,Gynecologist,33,Pawar Multispeciality Hospital,Pune,85%,Practo,₹800
+Dr. Sonali Chaudhari,Gynecologist,25,Lotus Multispeciality Hospital,Pune,91%,Practo,₹1100
+Dr. Rushabh Karnawat,Gynecologist,16,Phoenix Hospital,Pune,97%,Practo,₹600
+Dr. Santosh Sidid,Gynecologist,36,Noble Hospital,Pune,,Practo,₹850
+Dr. Marya Patil,Gynecologist,56,Ruby Hall Clinic,Pune,,Practo,₹700
+Dr. Asha Gavade,Gynecologist,21,Umang Hospital,Pune,96%,Practo,₹700
+Dr. I. Vani,Gynecologist,35,Lotus Hospitals For Women And Children,Visakhapatnam,76%,Practo,₹550
+Dr. R. Vidya Rama,Gynecologist,26,Medicover  Woman & Child Hospitals,Visakhapatnam,96%,Practo,₹600
+Dr. Shanthi P,Gynecologist,24,Medicover Hospitals - Visakhapatnam,Visakhapatnam,100%,Practo,₹500
+Dr. C H Madhuri,Gynecologist,30,Lotus Hospital For Women and Children,Visakhapatnam,100%,Practo,₹600
+Dr. M Radhika,Gynecologist,26,Medicover  Woman & Child Hospitals,Visakhapatnam,94%,Practo,₹600
+Dr. Lakshmi Kondamma S,Gynecologist,23,Medicover Hospitals - Visakhapatnam,Visakhapatnam,100%,Practo,₹500
+Dr. Reddi Geeta Vandana,Gynecologist,33,Medicover  Woman & Child Hospitals,Visakhapatnam,76%,Practo,₹600
+Dr. Nellimarla Sridevi,Gynecologist,28,"OMNI Hospitals, Visakhapatnam",Visakhapatnam,,Practo,₹600
+Dr. Sushma Jonnalagadda,Gynecologist,23,Care Hospital,Visakhapatnam,,Practo,₹650
+Dr. Vineelamedapati,Gynecologist,21,Medicover Hospitals - Visakhapatnam,Visakhapatnam,,Practo,₹600
+Dr. Siddartha Reddy,Neurologist,18,Siddarth Neuro Centre,Hyderabad,92%,Practo,₹1500
+Dr. Sandeep Raja Pittala,Neurologist,18,Srikara Hospital,Hyderabad,100%,Practo,₹500
+Dr. Shyam K Jaiswal,Neurologist,22,Kingston Hospitals,Hyderabad,33%,Practo,₹1000
+Dr. Vikram Reddy,Neurologist,17,Medicover Hospitals - Hitech City,Hyderabad,89%,Practo,₹800
+Dr. Venkata Harin Reddy M,Neurologist,16,Srikara Hospitals,Hyderabad,98%,Practo,₹800
+Dr. Nagendra Babu Dade,Neurologist,21,Srikara Hospital,Hyderabad,100%,Practo,₹700
+Dr. Niloufer Ali,Neurologist,15,Aster Prime Hospital,Hyderabad,,Practo,₹800
+Dr. P.Chandra Shekar,Neurologist,17,Prathima Hospitals,Hyderabad,67%,Practo,₹800
+Dr. Komal Bohra,Neurologist,16,Srikara Hospital,Hyderabad,90%,Practo,₹600
+Dr. Rajasekhar,Neurologist,20,Medicover Hospitals - Hitech City,Hyderabad,,Practo,₹600
+Dr. Shankar Prasad Nandi,Neurologist,29,Techno India Dama Healthcare & Medical Centre,Kolkata,100%,Practo,₹800
+Dr. Sumanta Sarkar,Neurologist,21,Baine Hospital,Kolkata,50%,Practo,₹800
+Dr. Tridib Chowdhury,Neurologist,24,Manipal Hospitals (AMRI Hospitals),Kolkata,91%,Practo,₹1200
+Dr. Sumitava Samanta,Neurologist,24,Manipal Hospitals (AMRI Hospitals),Kolkata,100%,Practo,₹1200
+Dr. Arijit Chakraborty,Neurologist,9,Manipal Hospital Broadway (AMRI Hospitals),Kolkata,67%,Practo,₹1200
+Dr. Sounak Chabri,Neurologist,10,Manipal Hospitals (AMRI Hospitals),Kolkata,50%,Practo,₹1000
+Dr. Koushik Dutta,Neurologist,26,Manipal Hospitals (AMRI Hospitals),Kolkata,92%,Practo,₹1200
+Dr. Joydeep Biswas,Neurologist,17,Medithics,Kolkata,60%,Practo,₹800
+Dr. Camelia Porey,Neurologist,12,Desun Hospital,Kolkata,50%,Practo,₹1000
+Dr. Nikhil Prasun,Neurologist,23,Manipal Hospital Broadway (AMRI Hospitals),Kolkata,81%,Practo,₹1800
+Dr. A Gunasekaran,Neurologist,33,Neuro Life Hospital,Chennai,94%,Practo,₹600
+Dr. I Mohamed Abith Ali,Neurologist,22,MGM Healthcare Malar Hospitals,Chennai,100%,Practo,₹1200
+Dr. V.Soundappan,Neurologist,46,MGM Healthcare Malar Hospitals,Chennai,99%,Practo,₹1000
+Dr. Nagarajan V,Neurologist,45,MGM Healthcare Malar Hospitals,Chennai,92%,Practo,₹1000
+Dr. Kannan,Neurologist,36,Chakra Critical Care Centre and Hospitals,Chennai,88%,Practo,₹800
+Dr. Karthikeyan,Neurologist,18,MGM Healthcare Malar Hospitals,Chennai,77%,Practo,₹1200
+Dr. J Senthil Nathan,Neurologist,23,MGM Healthcare Malar Hospitals,Chennai,94%,Practo,₹800
+Dr. Sankara Subramani Kumarauru,Neurologist,22,Billroth Hospitals,Chennai,86%,Practo,₹550
+Dr. Chandra Mohan Srinivasan,Neurologist,46,SRM Prime Hospital,Chennai,100%,Practo,₹750
+Dr. Shankar Balakrishnan,Neurologist,20,Dr. Rela Institute & Medical Centre,Chennai,57%,Practo,₹800
+Dr. Ashutosh Gupta,Neurologist,16,Park Hospital,Delhi,75%,Practo,₹1000
+Dr. Rajpal Kori,Neurologist,21,MGS Super Speciality Hospital,Delhi,83%,Practo,₹1000
+Dr. Laxmikant R Tomar,Neurologist,18,Sir Ganga Ram City Hospital,Delhi,91%,Practo,₹1500
+Dr. Rati Agarwal,Neurologist,23,Sir Ganga Ram City Hospital,Delhi,100%,Practo,₹1800
+Dr. Raghav Kapoor,Neurologist,14,Jeewan Hospital Gate No. 1,Delhi,67%,Practo,₹1000
+Dr. Rajat Chopra,Neurologist,14,Yatharth Super Speciality Hospital,Delhi,94%,Practo,₹1200
+Dr. Varun Rehani,Neurologist,14,MGS Super Speciality Hospital,Delhi,100%,Practo,₹1000
+Dr. Abhishek Shridhar,Neurologist,14,Dr. Shridhar's Neuro Clinic,Delhi,100%,Practo,₹1500
+Dr. Vinay S Agarwal,Neurologist,18,Ansari Hospital,Delhi,100%,Practo,₹1200
+Dr. Sudheer Kumar Pandey,Neurologist,12,MGS Super Speciality Hospital,Delhi,,Practo,₹1000
+Dr. H V Srinivas,Neurologist,62,SRV Agadi Hospital,Bangalore,86%,Practo,₹1500
+Dr. Nikhil C Hiremath,Neurologist,17,Aster CMI Hospital,Bangalore,88%,Practo,₹1200
+Dr. Lokesh B,Neurologist,29,Aster CMI Hospital,Bangalore,86%,Practo,₹1200
+Dr. Anuradha H K,Neurologist,25,Aster CMI Hospital,Bangalore,70%,Practo,₹1200
+Dr. Bushan Joseph,Neurologist,31,HOSMAT Hospital,Bangalore,81%,Practo,₹600
+Dr. Deepak Somasundar,Neurologist,17,Aster CMI Hospital,Bangalore,95%,Practo,₹1200
+Dr. Santhosh H,Neurologist,18,Trilife Hospital,Bangalore,95%,Practo,₹1200
+Dr. B K Madhusudhan,Neurologist,23,Aster RV Hospital,Bangalore,90%,Practo,₹1250
+Dr. Rashmi D,Neurologist,16,SVM Hospital,Bangalore,,Practo,₹600
+Dr. Shakthi K J S,Neurologist,17,Aster RV Hospital,Bangalore,75%,Practo,₹1250
+Dr. Ansari Rahil,Neurologist,17,A1 Superspeciality Healthcare,Mumbai,67%,Practo,₹2000
+Dr. Pujara Bhavin Mahesh,Neurologist,25,Aditi Hospital,Mumbai,86%,Practo,₹2000
+Dr. Keyur Panchal,Neurologist,20,Surana Hospital And Research Center,Mumbai,56%,Practo,₹2000
+Dr. Sucheta Tirpude,Neurologist,19,Apex Superspeciality Hospitals,Mumbai,100%,Practo,₹1500
+Dr. Shashank Nagendra,Neurologist,16,Surana Sethia Hospital and Research Center,Mumbai,25%,Practo,₹1500
+Dr. Darpan J. Thakre,Neurologist,28,Thunga STH Hospital,Mumbai,59%,Practo,₹2500
+Dr. Jash Doshi,Neurologist,11,Apex Hospitals Kandivali,Mumbai,,Practo,₹1500
+Dr. Dyaneshwar Jadhav,Neurologist,11,Apex Superspeciality Hospitals,Mumbai,,Practo,₹2000
+Dr. Siddhesh Hegde,Neurologist,15,Indigo Hospital,Mumbai,67%,Practo,₹1500
+Dr. Pradeep Tiwari,Neurologist,12,Surana Sethia Hospital and Research Center,Mumbai,100%,Practo,₹1500
+Dr. Sucheta Mudgerikar,Neurologist,41,Apollo Hospital,Ahmedabad,79%,Practo,₹1200
+Dr. Samir Patel,Neurologist,13,Apollo Hospital,Ahmedabad,75%,Practo,₹1000
+Dr. Vishal Jogi,Neurologist,17,SETU Neurology Clinic,Ahmedabad,90%,Practo,₹1600
+Dr. Mitul Kotecha,Neurologist,21,Phoenix Rheumatology Clinic,Ahmedabad,80%,Practo,₹1200
+Dr. Chirag Solanki,Neurologist,14,Zydus Hospital,Ahmedabad,,Practo,Free Consultation
+Dr. Bhumir Chauhan,Neurologist,15,Mastishk the Neurology Clinic,Ahmedabad,100%,Practo,₹1500
+Dr. Bashir A Ahmadi,Neurologist,47,Dr. Bashir A Ahmadi Clinic,Ahmedabad,100%,Practo,Free Consultation
+Dr. Dinesh S Saini,Neurologist,17,Zydus Hospital,Ahmedabad,89%,Practo,₹1000
+Dr. Mahendra Singh Chouhan,Neurologist,19,Shalby Hospitals,Ahmedabad,,Practo,₹800
+Dr. Navin Patel,Neurologist,39,ENT Care Associates,Ahmedabad,100%,Practo,₹1000
+Dr. Suresh Kumar Bansal,Neurologist,55,Eden Hospital,Chandigarh,85%,Practo,Free Consultation
+Dr. Parth Bansal,Neurologist,8,CHD City Hospital,Chandigarh,100%,Practo,Free Consultation
+Dr. Sanjay Bansal,Neurologist,36,Eden Hospital,Chandigarh,25%,Practo,₹800
+Dr. Loveleen Aggarwal,Neurologist,34,Eden Hospital,Chandigarh,,Practo,₹800
+Dr. Gursimran Singh,Neurologist,11,Mukat Hospital & Heart Institute,Chandigarh,,Practo,₹1000
+Dr. Anil Kumar Jha,Neurologist,32,Big Apollo Spectra Multi Speciality Hospital,Patna,80%,Practo,₹750
+Dr. Sudhir Kumar Jha,Neurologist,48,Neurology Clinic,Patna,78%,Practo,₹1000
+Dr. Akhilesh Singh,Neurologist,21,Kaushalya Neuro Center,Patna,75%,Practo,₹300
+Dr. Abhishek Kumar,Neurologist,19,Shyam Neuro Centre(Dr Abhishek Kumar DM Neurology),Patna,100%,Practo,₹700
+Dr. Hemant Kumar,Neurologist,13,Savitri Neuro Clinic,Patna,87%,Practo,₹800
+Dr. Janardan Sharma,Neurologist,16,Maa Binda Neuro Center,Patna,100%,Practo,₹500
+Dr. Nitish kumar,Neurologist,18,Neuro Centre,Patna,80%,Practo,₹700
+Dr. Rishi Kant Singh,Neurologist,20,Patna,Patna,75%,Practo,Free Consultation
+Dr. Shashwat Kumar,Neurologist,11,Medipark Superspeciality Hospital,Patna,100%,Practo,Free Consultation
+Dr. Sanjeev Kumar,Neurologist,11,Aastha Lok Hospital Pvt Ltd,Patna,100%,Practo,Free Consultation
+Dr. Debjyoti Dhar,Neurologist,8,Max Super Speciality Hospital,Lucknow,100%,Practo,₹700
+Dr. Laxmi Shankar Singh,Neurologist,15,Prime Neurology Clinic,Lucknow,95%,Practo,₹1000
+Dr. Sandeep Agarwal,Neurologist,40,Max Super Speciality Hospital,Lucknow,71%,Practo,₹900
+Dr. Abhishek Srivastava,Neurologist,26,Max Super Speciality Hospital,Lucknow,86%,Practo,₹900
+Dr. Anadi Prakash Mishra,Neurologist,12,Axiom Neurology and Ophthalmology Clinic,Lucknow,100%,Practo,₹700
+Dr. Sumit Verma,Neurologist,12,Dr Sumit Verma's Neuro Care Centre,Lucknow,98%,Practo,₹600
+Dr. Ratish Juyal,Neurologist,16,Shanti Neuro Centre,Lucknow,89%,Practo,₹700
+Dr. Hariom Singh,Neurologist,24,Neuro Clinic,Lucknow,95%,Practo,₹900
+Dr. M. Shakil,Neurologist,27,Huma Neurology Centre,Lucknow,89%,Practo,₹1000
+Dr. Ritwiz Bihari,Neurologist,18,Om Neuro Clinic,Lucknow,87%,Practo,₹1000
+Dr. Vivek Bonde,Neurologist,29,Lifepoint Multispeciality Hospital,Pune,100%,Practo,₹1500
+Dr. Prem Kumar Sinha,Neurologist,50,Ruby Hall Clinic,Pune,100%,Practo,₹1500
+Dr. Kunal Jadhav,Neurologist,18,Medicover Hospital,Pune,89%,Practo,₹1000
+Dr. Bhushan Mishal,Neurologist,22,Jeevan Jyoti Superspeciality Hospital,Pune,94%,Practo,₹1500
+Dr. Paras Borse,Neurologist,10,Medicover Hospital,Pune,,Practo,₹1000
+Dr. Shalesh Rohatgi,Neurologist,50,Heal And Care,Pune,84%,Practo,₹1500
+Dr. Aishwary P Supekar,Neurologist,15,Ayurdharma Ayurvedic Clinic And Panchakarma Center,Pune,99%,Practo,₹500
+Dr. Aradhana Chouvhan,Neurologist,18,Sahyadri Hospital,Pune,100%,Practo,₹1150
+Dr. Abhijeet G,Neurologist,8,The Brain And Nerve Clinic,Pune,100%,Practo,₹800
+Dr. Vikram B Aglave,Neurologist,19,Lokmanya Hospitals,Pune,67%,Practo,₹1200
+Dr. Muppala Ganesh Vikram Aditya,Neurologist,17,Care Hospital,Visakhapatnam,100%,Practo,₹600
+Dr. K Satya Rao,Neurologist,50,Medicover Hospitals - Visakhapatnam,Visakhapatnam,75%,Practo,₹800
+Dr. Pavan Kumar Rudrabhatla,Neurologist,13,Medicover Hospitals - Visakhapatnam,Visakhapatnam,100%,Practo,₹800
+Dr. Jada Avinash,Neurologist,12,"OMNI Hospitals, Visakhapatnam",Visakhapatnam,,Practo,₹500
+Dr. Rajesh Venkat Indala,Neurologist,19,Apollo Health City,Visakhapatnam,92%,Practo,₹600
+Dr. Ramesh Babu Mutiki,Neurologist,9,Apollo Health City,Visakhapatnam,,Practo,₹600
+Dr. Madhusudan Babu,Neurologist,34,Apollo Health City,Visakhapatnam,100%,Practo,₹600
+Dr. Anuradha Nidra,Neurologist,11,Anuradha Neuro Centre,Visakhapatnam,96%,Practo,₹450
+Dr. Rajesh Venkat Indala,Neurologist,20,Neurologist Clinic,Visakhapatnam,100%,Practo,₹300
+Dr. Silpa Kesireddy,Neurologist,16,Sai Suhavi Neurocare,Visakhapatnam,100%,Practo,₹400
+Dr. Jyotheswara Reddy,Orthopedist,16,Srikara Hospitals,Hyderabad,100%,Practo,₹800
+Dr. Kishore B Reddy,Orthopedist,24,Amor Hospitals,Hyderabad,86%,Practo,₹700
+Dr. Sandeep Prasad,Orthopedist,31,Health Valley Hospital,Hyderabad,93%,Practo,₹700
+Dr. Ajay Kumar Paruchuri,Orthopedist,23,"CARE Hospitals Outpatient Centre, Banjara Hills",Hyderabad,95%,Practo,₹850
+Dr. Madhu Thumu,Orthopedist,20,Srikara Hospitals,Hyderabad,90%,Practo,₹800
+Dr. Sreedhar Reddy Anne,Orthopedist,22,Aster Prime Hospital,Hyderabad,50%,Practo,₹600
+Dr. Mir Zia Ur Rahaman Ali,Orthopedist,21,"CARE Hospitals Outpatient Centre, Banjara Hills",Hyderabad,67%,Practo,₹1000
+Dr. Krishna Kiran Eachempati,Orthopedist,25,Medicover Hospitals - Hitech City,Hyderabad,71%,Practo,₹600
+Dr. R. Suneel,Orthopedist,18,Medicover Hospitals - Hitech City,Hyderabad,79%,Practo,₹600
+Dr. E S Radhe Shyam,Orthopedist,22,CARE Hospitals,Hyderabad,90%,Practo,₹400
+Dr. Manoj Kumar Khemani,Orthopedist,24,Techno India Dama Healthcare & Medical Centre,Kolkata,89%,Practo,₹1100
+Dr. Ritwik Ganguli,Orthopedist,17,Sl Artemis Medical Centre Pvt Ltd,Kolkata,86%,Practo,₹1500
+Dr. Gautam Gupta,Orthopedist,17,Techno India Dama Healthcare & Medical Centre,Kolkata,70%,Practo,₹850
+Dr. Arnab Karmakar,Orthopedist,16,Sl Artemis Medical Centre Pvt Ltd,Kolkata,75%,Practo,₹1200
+Dr. Chinmoy Biswas,Orthopedist,30,Sl Artemis Medical Centre Pvt Ltd,Kolkata,50%,Practo,₹1400
+Dr. Sugata Biswas,Orthopedist,23,Baine Hospital,Kolkata,,Practo,₹500
+Dr. Malay Kumar Mandal,Orthopedist,33,Techno India Dama Healthcare & Medical Centre,Kolkata,90%,Practo,₹500
+Dr. Somnath Ghatak,Orthopedist,26,Baine Hospital,Kolkata,100%,Practo,₹600
+Dr. Rajeev Raman,Orthopedist,23,Techno India Dama Healthcare & Medical Centre,Kolkata,50%,Practo,₹1000
+Dr. Pratik Gupta,Orthopedist,24,Baine Hospital,Kolkata,,Practo,₹700
+Dr. V Singaravadivelu,Orthopedist,38,Noble Hospital,Chennai,98%,Practo,₹750
+Dr. B.Pasupathy,Orthopedist,36,RPS Hospitals,Chennai,92%,Practo,₹500
+Dr. Ravi Kirubanandan,Orthopedist,25,Prime Indian Hospitals,Chennai,97%,Practo,₹500
+Dr. Anand M,Orthopedist,21,MGM Healthcare Malar Hospitals,Chennai,92%,Practo,₹800
+Dr. Barani Rathinavelu,Orthopedist,23,VS Hospitals,Chennai,75%,Practo,₹500
+Dr. A Dorairajan,Orthopedist,37,Billroth Hospitals,Chennai,92%,Practo,₹700
+Dr. K. Velmurugan,Orthopedist,24,Prime Indian Hospitals,Chennai,94%,Practo,₹500
+Dr. Narayanan V L,Orthopedist,18,Hycare Hospitals,Chennai,100%,Practo,₹600
+Dr. S.S. Kumar,Orthopedist,33,Astra Ortho N Spine Center,Chennai,96%,Practo,₹600
+Dr. K C Mohan,Orthopedist,16,SRM Prime Hospital,Chennai,100%,Practo,₹600
+Dr. Sandeep Singh,Orthopedist,30,Cronus Multispeciality Hospital,Delhi,88%,Practo,₹1000
+Dr. Ankit Gupta,Orthopedist,24,SRG Speciality Hospital,Delhi,94%,Practo,₹800
+Dr. Rahul Sharma,Orthopedist,17,Sawan Neelu Angels Nursing Home,Delhi,96%,Practo,₹1500
+Dr. Ritesh Kumar,Orthopedist,20,Metro Hospital and Cancer Institute,Delhi,80%,Practo,₹1000
+Dr. Aditya Sharma,Orthopedist,19,Epitome Kidney Urology And Lions Hospital,Delhi,88%,Practo,₹1000
+Dr. Arun Jain,Orthopedist,41,Muni Maya Ram Jain Hospital,Delhi,92%,Practo,₹500
+Dr. Mandeep Singh,Orthopedist,26,SCI International Hospital,Delhi,86%,Practo,₹1500
+Dr. Himanshu Gupta,Orthopedist,19,Center For Sports Injury,Delhi,95%,Practo,₹1000
+Dr. Abhishek Kumar Mishra,Orthopedist,29,MASSH-Minimal Access Smart Surgery Hospital,Delhi,97%,Practo,₹1200
+Dr. Shuvendu Prosad Roy,Orthopedist,28,Aashlok Hospital,Delhi,75%,Practo,₹1000
+Dr. Somanna Malchira,Orthopedist,20,Aster CMI Hospital,Bangalore,94%,Practo,₹1200
+Dr. Krishna Prasad,Orthopedist,40,HOSMAT Hospital,Bangalore,90%,Practo,₹600
+Dr. Nithin Patel,Orthopedist,20,Trilife Hospital,Bangalore,100%,Practo,₹1000
+Dr. Mohan M.R,Orthopedist,24,Nano Hospitals,Bangalore,93%,Practo,₹500
+Dr. Abdul Hadi Shareef,Orthopedist,25,Regal Hospital,Bangalore,89%,Practo,₹800
+Dr. Ravishankar D,Orthopedist,30,HOSMAT Hospital,Bangalore,100%,Practo,₹600
+Dr. Ashish Philip Zachariah,Orthopedist,17,Aster CMI Hospital,Bangalore,75%,Practo,₹1200
+Dr. Subodh M Shetty,Orthopedist,33,SRV Agadi Hospital,Bangalore,90%,Practo,₹800
+Dr. Prashanth Nagaraj,Orthopedist,27,Even Hospitals,Bangalore,67%,Practo,₹300
+Dr. Thirumalesh K Reddy,Orthopedist,31,Aster CMI Hospital,Bangalore,86%,Practo,₹1200
+Dr. Kapil Mohan,Orthopedist,23,Aditi Hospital,Mumbai,92%,Practo,₹1500
+Dr. Shailendra Patil,Orthopedist,26,Aditi Hospital,Mumbai,97%,Practo,₹2000
+Dr. Samir Pilankar,Orthopedist,31,Sujay Hospital,Mumbai,,Practo,₹2000
+Dr. Ladkat Kiran M,Orthopedist,23,Mangal Anand Hospital,Mumbai,100%,Practo,₹1600
+Dr. Haresh H Manglani,Orthopedist,37,Sudhanshu Hospital & ICCU,Mumbai,75%,Practo,₹2000
+Dr. Sanjay Singh,Orthopedist,21,Mangal Anand Hospital,Mumbai,89%,Practo,₹1600
+Dr. Tejas Upasani,Orthopedist,27,USSH,Mumbai,86%,Practo,₹2600
+Dr. Rajesh Dharmarajan,Orthopedist,17,Garg Multispeciality Hospital,Mumbai,,Practo,₹2000
+Dr. Satyen Mehta,Orthopedist,26,Surana Sethia Hospital and Research Center,Mumbai,97%,Practo,₹2500
+Dr. Mihirgiri I Goswami,Orthopedist,25,Platinum Hospital,Mumbai,89%,Practo,₹2000
+Dr. Yash Shah,Orthopedist,10,Bodyline Hospital,Ahmedabad,100%,Practo,₹600
+Dr. Prateek Joshi,Orthopedist,17,Atharva Orthopaedic Superspeciality Hospital,Ahmedabad,100%,Practo,₹600
+Dr. Jaimin Vaishnav,Orthopedist,8,Uro Cure Hospital,Ahmedabad,,Practo,₹700
+Dr. Ruchir Patel,Orthopedist,11,Ortho D Hospital,Ahmedabad,100%,Practo,₹700
+Dr. Asit Bhoyar,Orthopedist,12,Shalby Multispeciality Hospital,Ahmedabad,100%,Practo,₹1000
+Dr. Darshan Bachani,Orthopedist,17,Apollo Hospital,Ahmedabad,,Practo,₹900
+Dr. Pulin Shah,Orthopedist,37,Shilp Hospital,Ahmedabad,96%,Practo,₹1500
+Dr. Susmita Choudhary,Orthopedist,9,Dr. Sushmita's Dental Clinic,Ahmedabad,100%,Practo,₹500
+Dr. Maulik Patwa,Orthopedist,29,Zydus Hospital,Ahmedabad,100%,Practo,Free Consultation
+Dr. Niraj B Vasavada,Orthopedist,22,Shalby Hospitals,Ahmedabad,75%,Practo,₹1000
+Dr. Siddharth Aggarwal,Orthopedist,22,Golden Clinics,Chandigarh,99%,Practo,₹700
+Dr. Varun Aggarwal,Orthopedist,24,Golden Clinics,Chandigarh,98%,Practo,₹700
+Dr. Jaspreet Singh Sran,Orthopedist,28,Sukhvarsha Orthopedic Clinic,Chandigarh,97%,Practo,₹300
+Dr. Manpal Singh Narula,Orthopedist,30,Apollo Clinic,Chandigarh,93%,Practo,₹500
+Dr. Vineet Sharma,Orthopedist,25,Advanced Hip & Knee Clinic,Chandigarh,97%,Practo,₹700
+Dr. Manit Arora,Orthopedist,12,Dr Arora's Orthopaedics and Sports Medicine,Chandigarh,96%,Practo,₹500
+Dr. Rajinder K Sharma,Orthopedist,46,Sarhind Orthopaedic Multispeciality Medical Centre,Chandigarh,92%,Practo,₹750
+Dr. Aseem Goyal,Orthopedist,16,Prime Healthcare,Chandigarh,100%,Practo,₹800
+Dr. Gaurav Sawhney,Orthopedist,31,Bone Joint & Spine Clinic,Chandigarh,98%,Practo,₹800
+Dr. Arvinder Singh Bhatia,Orthopedist,36,Dr. Bhatia's Bone and Joint Care Clinic,Chandigarh,73%,Practo,₹700
+Dr. Vineesh Niranjan,Orthopedist,24,Niranjan Aarogya Niketan and Research Centre,Patna,95%,Practo,₹500
+Dr. Sujit Kumar,Orthopedist,13,Medstar Hospital,Patna,96%,Practo,₹500
+Dr. Amit Sinha,Orthopedist,11,Big Apollo Spectra Multi Speciality Hospital,Patna,100%,Practo,₹750
+Dr. Pankaj Kumar Verma,Orthopedist,13,Big Apollo Spectra Multi Speciality Hospital,Patna,,Practo,₹750
+Dr. Anand Gupta,Orthopedist,14,Gupta Clinic,Patna,100%,Practo,₹500
+Dr. Saurabh Sharma,Orthopedist,15,Meera Karuna Hospital,Patna,100%,Practo,₹400
+Dr. Anand Bhushan,Orthopedist,13,Big Apollo Spectra Multi Speciality Hospital,Patna,,Practo,₹750
+Dr. Shamsul Hoda,Orthopedist,25,Ortho World,Patna,87%,Practo,₹500
+Dr. Saurabh Chaudhary,Orthopedist,20,Ortho & Skin Care Clinic,Patna,100%,Practo,₹400
+Dr. H. N. Sinha,Orthopedist,56,Dr. H. N. Sinha Clinic,Patna,80%,Practo,₹700
+Dr. A S Pandey,Orthopedist,24,Vistaar Ortho Clinic,Lucknow,89%,Practo,₹700
+Dr. Shivendra Srivastava,Orthopedist,26,Shivendra's Ortho Clinic,Lucknow,90%,Practo,₹600
+Dr. CP Gupta,Orthopedist,16,Adya Multi-Speciality Hospital,Lucknow,85%,Practo,₹500
+Dr. Shivendra Singh,Orthopedist,14,Medicare Polyclinic,Lucknow,100%,Practo,₹800
+Dr. Afzaal Ansari,Orthopedist,20,S S Orthopedic Centre,Lucknow,89%,Practo,₹650
+Dr. Shubham Kejriwal,Orthopedist,15,Kejriwal Clinic ,Lucknow,98%,Practo,₹700
+Dr. Narinder Kumar,Orthopedist,34,Max Super Speciality Hospital,Lucknow,100%,Practo,₹1000
+Dr. Rishabh Jaiswal,Orthopedist,11,Max Super Speciality Hospital,Lucknow,100%,Practo,₹700
+Dr. Divyanshu Dutt Dwivedi,Orthopedist,14,Max Super Speciality Hospital,Lucknow,100%,Practo,₹800
+Dr. Rahul Singh,Orthopedist,17,Grammont Shoulder And Knee Clinic,Lucknow,,Practo,₹700
+Dr. Aniket  Patil,Orthopedist,22,Noble Hospital,Pune,97%,Practo,₹700
+Dr. Pravin Waghmare,Orthopedist,20,Jeevan Jyoti Superspeciality Hospital,Pune,95%,Practo,₹1200
+Dr. Purandare Mayur,Orthopedist,20,Lifepoint Multispeciality Hospital,Pune,90%,Practo,₹950
+Dr. Vivek Bonde,Orthopedist,29,Lifepoint Multispeciality Hospital,Pune,100%,Practo,₹1500
+Dr. Shrirang Kulkarni,Orthopedist,27,Medicover Hospital,Pune,92%,Practo,₹500
+Dr. Abhijit Ranaware,Orthopedist,17,Noble Hospital,Pune,57%,Practo,₹700
+Dr. Vishal Chaudhari,Orthopedist,20,Noble Hospital,Pune,57%,Practo,₹850
+Dr. Ashutosh Sabnis,Orthopedist,23,Pawar Multispeciality Hospital,Pune,100%,Practo,₹1300
+Dr. Amrut Oswal,Orthopedist,45,Pawar Multispeciality Hospital,Pune,50%,Practo,₹1200
+Dr. Chavan Sanjay Vishnu,Orthopedist,22,Sharvari Hospital,Pune,50%,Practo,₹800
+Dr. Sridhar Gangavarapu,Orthopedist,22,Medicover Hospitals - Visakhapatnam,Visakhapatnam,100%,Practo,₹500
+Dr. B V R N Varma,Orthopedist,27,"OMNI Hospitals, Visakhapatnam",Visakhapatnam,100%,Practo,₹600
+Dr. Pratap Reddy A,Orthopedist,33,Medicover Hospitals - Visakhapatnam,Visakhapatnam,88%,Practo,₹500
+Dr. KS Praveen Kumar,Orthopedist,26,Care Hospital,Visakhapatnam,100%,Practo,₹650
+Dr. Ravi Chandra Vattipalli,Orthopedist,21,Care Hospital,Visakhapatnam,100%,Practo,₹650
+Dr. Ponduru Sharat Ram,Orthopedist,20,Medicover Hospitals - Visakhapatnam,Visakhapatnam,100%,Practo,₹600
+Dr. Jallu Kalyan Chakravarthy,Orthopedist,18,Care Hospital,Visakhapatnam,,Practo,₹650
+Dr. Sodavarapu Praveen,Orthopedist,13,Medicover Hospitals - Visakhapatnam,Visakhapatnam,,Practo,₹500
+Dr. Varaha Satya Vinay Nimmakayala,Orthopedist,11,Medicover Hospitals - Visakhapatnam,Visakhapatnam,,Practo,₹500
+Dr. B Mohan Kalyan Phaniteja,Orthopedist,12,"OMNI Hospitals, Visakhapatnam",Visakhapatnam,,Practo,₹500
+Dr. Aman Khanna,Neurologist,10,Fortis Hospital,Chandigarh,97%,Practo,1200
+Dr. Rakesh Verma,Neurologist,15,Max Super Speciality,Chandigarh,66%,Practo,2000
+Dr. Neha Kapoor,Neurologist,7,Alchemist Hospital,Chandigarh,90%,Practo,900
+Dr. Pooja Arora,Neurologist,17,IVY Hospital,Chandigarh,62%,Practo,2500
+Dr. Manish Bansal,Neurologist,4,Paras Hospital,Chandigarh,90%,Practo,800
+Dr. Rajat Mehta,Cardiologist,12,Fortis Hospital,Chandigarh,66%,Practo,700
+Dr. Kunal Sharma,Cardiologist,8,Max Super Speciality,Chandigarh,59%,Practo,1200
+Dr. Vivek Suri,Cardiologist,5,Alchemist Hospital,Chandigarh,89%,Practo,500
+Dr. Nitin Malhotra,Cardiologist,16,IVY Hospital,Chandigarh,64%,Practo,1500
+Dr. Sameer Batra,Cardiologist,18,Paras Hospital,Chandigarh,68%,Practo,1300
+Dr. Abhishek Jain,Cardiologist,9,Cloudnine Hospital,Chandigarh,72%,Practo,800
+Dr. Rohit Tandon,Cardiologist,2,Silver Oaks Hospital,Chandigarh,90%,Practo,900
+Dr. Gaurav Arora,Cardiologist,14,Hope Clinic,Chandigarh,82%,Practo,1000
+Dr. Anil Kumar,Cardiologist,4,Apollo Hospital,Bangalore,74%,Practo,800
