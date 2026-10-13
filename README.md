@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Doctor's Consultation Fee Analysis
 An Exploratory Data Analysis (EDA) project that analyzes doctor consultation fees across different medical specializations and cities in India using data collected from Practo.
 
@@ -307,3 +308,7 @@ The dataset represents the data collected and processed for this project and sho
 The analysis identifies patterns and associations within the available dataset; it does not establish causal relationships.
 
 
+=======
+# afrin277-Doctors-Consultation-Fee-Analysis
+Exploratory Data Analysis of Doctor Consultation Fees using Python and Pandas.
+>>>>>>> origin/main
